@@ -1,0 +1,72 @@
+.pc-variations-table a.reset_variations {
+    margin-right: 0;
+    margin-left: auto;
+}
+
+.pc-attribute-description {
+    padding-right: .3rem;
+    padding-left: 0;
+}
+
+.pc-variation-color__list {
+    margin: -10px 0 0 -5px;
+}
+
+.pc-variation-color__control {
+    margin: 10px 0 0 5px;
+}
+
+.pc-variation-color__control.disabled:after {
+    right: -14%;
+    left: auto;
+}
+
+.pc-variation-color__control.variable-active .pc-variation-color__variable-color:before {
+    right: 50%;
+    left: auto;
+}
+
+.pc-variation-label__list {
+    margin: -10px 0 0 -5px;
+}
+
+.pc-variation-label__list-item {
+    margin: 10px 0 0 5px;
+}
+
+.pc-variation-image__list {
+    margin: -10px 0 0 -5px;
+}
+
+.pc-variation-image__list-item {
+    margin: 10px 0 0 5px;
+}
+
+.pc-variation-image__variable-image {
+    right: 50%;
+    left: auto;
+}
+
+.pc-variation-image__drop-photo {
+    right: 50%;
+    left: auto;
+}
+
+.pc-variation-image__drop-photo-title:before {
+    right: 50%;
+    left: auto;
+    margin-right: -5px;
+    margin-left: auto;
+}
+
+.pc-variations-table__column--label {
+    padding-left: 10px;
+    padding-right: 0;
+}
+
+.pc-tooltip__drop {
+    right: 100%;
+    left: auto;
+    padding-right: 3px;
+    padding-left: 0;
+}
