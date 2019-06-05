@@ -1172,7 +1172,7 @@
      margin-right: auto;
 }
  .product-cut__action-row > * {
-     margin-right: auto;
+     margin-right: 0;
      margin-left: 10px;
 }
  .product-snippet__action-row {
