@@ -1,5 +1,9 @@
-/*.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .pc-section-secondary .brands-widget .brands-widget__list-item, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12, .pc-section-secondary .small-post .small-post__item, .wishlist__column, .pc-product-loop--grid .pc-product-loop__col, .pc-product-loop--list .pc-product-loop__col, .up-sells__columns, .pc-frame-profile__sidebar, .pc-frame-profile__body {
-  float: right; }*/
+.mobile-nav__ico {
+	transform: rotate(180deg);
+}
+
+.pc-section-secondary .brands-widget .brands-widget__list-item, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12, .pc-section-secondary .small-post .small-post__item, .wishlist__column, .pc-product-loop--grid .pc-product-loop__col, .pc-product-loop--list .pc-product-loop__col, .up-sells__columns, .pc-frame-profile__sidebar, .pc-frame-profile__body {
+  float: right; }
 
 .input-group-btn:last-child > .btn, .product-search__input-group-btn:last-child > .btn, .input-group-btn:last-child > .error-page__button, .product-search__input-group-btn:last-child > .error-page__button, .input-group-btn:last-child > .btn-load-more, .product-search__input-group-btn:last-child > .btn-load-more, .btn-order .input-group-btn:last-child > button, .btn-order .product-search__input-group-btn:last-child > button, .btn-order .input-group-btn:last-child > input[type="button"], .btn-order .product-search__input-group-btn:last-child > input[type="button"], .btn-order .input-group-btn:last-child > input[type="reset"], .btn-order .product-search__input-group-btn:last-child > input[type="reset"], .btn-order .input-group-btn:last-child > input[type="submit"], .btn-order .product-search__input-group-btn:last-child > input[type="submit"], .order-again .input-group-btn:last-child > .button, .order-again .product-search__input-group-btn:last-child > .button, .input-group-btn:last-child > .wc-backward.button, .product-search__input-group-btn:last-child > .wc-backward.button, .widget_price_filter .input-group-btn:last-child > .button, .widget_price_filter .product-search__input-group-btn:last-child > .button, .input-group-btn:last-child > .product-search__submit, .product-search__input-group-btn:last-child > .product-search__submit, .input-group-btn:last-child > .quantity__btn, .product-search__input-group-btn:last-child > .quantity__btn, .wpcf7 .input-group-btn:last-child > .wpcf7-form-control[type="submit"], .wpcf7 .product-search__input-group-btn:last-child > .wpcf7-form-control[type="submit"], .product-kit__btn .input-group-btn:last-child > .added_to_cart, .product-kit__btn .product-search__input-group-btn:last-child > .added_to_cart, .pc-add-to-cart .input-group-btn:last-child > .button, .pc-add-to-cart .product-search__input-group-btn:last-child > .button, .pc-add-to-cart .input-group-btn:last-child > .added_to_cart, .pc-add-to-cart .product-search__input-group-btn:last-child > .added_to_cart, .pc-add-to-cart-loop .input-group-btn:last-child > .button, .pc-add-to-cart-loop .product-search__input-group-btn:last-child > .button, .pc-add-to-cart-loop .input-group-btn:last-child > .added_to_cart, .pc-add-to-cart-loop .product-search__input-group-btn:last-child > .added_to_cart, noscript .input-group-btn:last-child > [name="woocommerce_checkout_update_totals"], noscript .product-search__input-group-btn:last-child > [name="woocommerce_checkout_update_totals"], .input-group-btn:last-child > .btn-group, .product-search__input-group-btn:last-child > .btn-group {
      margin-left: 0;
@@ -65,10 +69,7 @@
      margin-left: 0;
      margin-right: 3px;
 }
- .page__mobile {
-     right: -250px;
-     left: auto;
-}
+
  .pc-header-layout-2__icons-lg > *:not(:first-child) {
      margin-left: 0;
      margin-right: 20px;
@@ -730,6 +731,12 @@
  .order-details__item:not(:first-child) {
      padding-left: 0;
      padding-right: 10px;
+}
+
+.page__mobile {
+	width: 250px;
+     right: -250px;
+     left: auto;
 }
 .page__body--js-pushed {
 	transform: translateX(-250px);

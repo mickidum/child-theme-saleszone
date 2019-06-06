@@ -1,0 +1,119 @@
+/*
+ .mobile-nav__list--is-moving {
+   transform: translateX(100%);
+}
+ .quantity__tooltip {
+     left: 50%;
+     transform: translateX(-50%);
+}
+ .quantity__tooltip:before, .quantity__tooltip:after {
+     left: 50%;
+     transform: translateX(-50%);
+}
+ .filter__icon-plus:after {
+     left: 50%;
+     transform: translateX(-50%);
+}
+ .typo ul ul, .wp-editor ul ul {
+     margin: 0 0 0 2em;
+}
+ .typo ol ol, .wp-editor ol ol {
+     margin: 0 0 0 2em;
+}
+ .likes {
+     margin: -10px 0 0 -15px;
+}
+ .likes__item {
+     margin: 10px 0 0 15px;
+}
+ .spinner-circle, .blockUI:not(.blockOverlay):not(.blockElement):not(.blockMsg) {
+     margin: -20px 0 0 -20px;
+}
+ .widget_layered_nav_filters ul {
+     margin: -10px 0 0 -10px;
+}
+ .widget_layered_nav_filters ul li {
+     display: inline-block;
+     margin: 10px 0 0 10px;
+}
+ .widget_layered_nav_filters ul li a {
+     padding: 3px 35px 4px 10px;
+}
+ .tagcloud {
+     margin: -5px 0 0 -5px;
+}
+ .tagcloud a {
+     float: left;
+     margin: 5px 0 0 5px;
+}
+ @media (min-width: 768px) {
+     .product-kit__product:not(:first-child):before {
+         margin: 0 0 0 -11px;
+    }
+}
+ .cart-header__badge {
+     margin: -10px 0 0 -10px;
+}
+ .gallery .gallery-item .gallery-icon a::after {
+     margin: -14px 0 0 -9px;
+}
+ .gallery-menu__item {
+     margin: 0 0 5px 10px;
+}
+ .alignnone {
+     margin: 5px 20px 20px 0;
+}
+ a img.alignright {
+     float: right;
+     margin: 5px 0 20px 20px;
+}
+ a img.alignnone {
+     margin: 5px 20px 20px 0;
+}
+ a img.alignleft {
+     float: left;
+     margin: 5px 20px 20px 0;
+}
+ .wp-caption.alignnone {
+     margin: 5px 20px 20px 0;
+}
+ .wp-caption.alignleft {
+     margin: 5px 20px 20px 0;
+}
+ .wp-caption.alignright {
+     margin: 5px 0 20px 20px;
+}
+ .mfp-close {
+     padding: 0 0 18px 10px;
+}
+ .pc-header-layout-3__navbar-link {
+     padding: 0 35px 0 20px;
+}
+ .typo blockquote, .wp-editor blockquote {
+     padding: 0 0 0.8em 3.7em;
+}
+ .tree-nav__link {
+     padding: 5px 30px 5px 10px;
+}
+ .sidebar-nav__link {
+     padding: 10px 50px 10px 10px;
+}
+ .overlay__link {
+     padding: 5px 30px 5px 10px;
+}
+ .pc-section-primary__inner {
+     padding: 30px 50px 35px 50px;
+}
+ .widget_layered_nav_filters ul li a {
+     padding: 3px 35px 4px 10px;
+}
+ .jq-selectbox__select {
+     padding: 0 45px 0 10px;
+}
+ .jq-selectbox__search input {
+     padding: 5px 27px 6px 8px;
+}
+ .quantity__btn {
+     min-width: 33px;
+}
+*/

@@ -2065,7 +2065,7 @@ msgstr "פרופיל"
 
 #: parts/header/parts/header-phones.php:8
 msgid "Call us:"
-msgstr "התקשר אלינו"
+msgstr "התקשר אלינו:"
 
 #: parts/header/parts/header-profile-overlay.php:8,
 #: parts/mobile-menu/mobile-profile.php:6, parts/modal/modal-login.php:3,
@@ -2133,7 +2133,7 @@ msgstr "ברוך הבא!"
 
 #: parts/modal/modal-login.php:45, parts/modal/modal-login.php:91
 msgid "You have successfully logged in as"
-msgstr "נכנסת בהצלחה למערכת כ-"
+msgstr "נכנסת בהצלחה למערכת כ"
 
 #: parts/modal/modal-login.php:68,
 #: woocommerce/myaccount/form-login-part-login.php:56
@@ -2211,7 +2211,7 @@ msgstr "%s מתוך 5 כוכבים"
 #: woocommerce/loop/sales-counter-loop.php:17,
 #: woocommerce/single-product/sales-counter-single.php:19
 msgid "On sale "
-msgstr "במבצע"
+msgstr "במבצע "
 
 #: parts/shortcode-templates/premmerce_scheduled_sale_products/premmerce_scheduled_sale_products.php:59,
 #: woocommerce/single-product/sales-counter-single.php:30
@@ -2224,11 +2224,11 @@ msgstr[3] "ימים"
 
 #: parts/shortcode-templates/premmerce_scheduled_sale_products/premmerce_scheduled_sale_products.php:89
 msgid "Price "
-msgstr "מחיר"
+msgstr "מחיר "
 
 #: parts/shortcode-templates/premmerce_scheduled_sale_products/premmerce_scheduled_sale_products.php:102
 msgid "Discount "
-msgstr "הנחה"
+msgstr "הנחה "
 
 #: parts/shortcode-templates/premmerce_scheduled_sale_products/premmerce_scheduled_sale_products.php:110
 msgid "Saving "
@@ -2496,7 +2496,7 @@ msgstr "עגלת קניות"
 
 #: woocommerce/cart/cart-header.php:129
 msgid "Empty"
-msgstr "רוקן את העגלה"
+msgstr "אין כלום"
 
 #: woocommerce/cart/cart-modal.php:53
 msgid "Your cart is currently empty."
@@ -2589,7 +2589,7 @@ msgstr "סיכום הזמנה"
 #. translators: %s: estimated for
 #: woocommerce/cart/cart-totals.php:82
 msgid "(estimated for %s)"
-msgstr "הערכה עבור %s"
+msgstr "(הערכה עבור %s)"
 
 #: woocommerce/cart/cart-totals.php:105,
 #: woocommerce/checkout/review-order.php:90
