@@ -7,6 +7,11 @@
  * @package child-theme-saleszone
  */
 
+add_action( 'after_setup_theme', 'my_child_theme_setup' );
+function my_child_theme_setup(){
+	load_child_theme_textdomain( 'saleszone', get_stylesheet_directory() . '/languages' );
+}
+
 
 add_action( 'wp_enqueue_scripts', 'saleszone_parent_theme_enqueue_styles' );
 

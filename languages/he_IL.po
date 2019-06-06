@@ -1,0 +1,3146 @@
+# Copyright (C) 2019 saleszone
+# This file is distributed under the same license as the saleszone package.
+msgid ""
+msgstr ""
+"Project-Id-Version: saleszone\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==2 ? 1 : n>10 && n%10==0 ? "
+"2 : 3);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.3\n"
+"Last-Translator: \n"
+"Language: he_IL\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:8, 404.php:13
+msgid "Page not found!"
+msgstr "העמוד לא נמצא!"
+
+#: 404.php:16
+msgid "Sorry, the page you're looking for doesn't exist!"
+msgstr "מצטער, העמוד שאתה מחפש לא קיים!"
+
+#: 404.php:20
+msgid "Home"
+msgstr "עמוד הבית"
+
+#: child-themes/grandstore/functions/default-options.php:71
+msgid "Side panel background color"
+msgstr "צבע רקע של הלוח הצדדי"
+
+#: child-themes/grandstore/functions/default-options.php:79,
+#: child-themes/grandstore/functions/default-options.php:137,
+#: child-themes/grandstore/functions/default-options.php:179,
+#: child-themes/grandstore/functions/default-options.php:287,
+#: child-themes/grandstore/functions/default-options.php:353,
+#: functions/admin/default-options/default-options-css-variables.php:13,
+#: functions/admin/default-options/default-options-css-variables.php:71,
+#: functions/admin/default-options/default-options-css-variables.php:113,
+#: functions/admin/default-options/default-options-css-variables.php:222,
+#: functions/admin/default-options/default-options-css-variables.php:282
+msgid "Text color"
+msgstr "צבע טקסט"
+
+#: child-themes/grandstore/functions/default-options.php:87,
+#: functions/admin/default-options/default-options-css-variables.php:21
+msgid "Heading color"
+msgstr "צבע הכותרת"
+
+#: child-themes/grandstore/functions/default-options.php:95,
+#: functions/admin/default-options/default-options-css-variables.php:29
+msgid "Links color"
+msgstr "צבע קישורים"
+
+#: child-themes/grandstore/functions/default-options.php:103,
+#: functions/admin/default-options/default-options-css-variables.php:37
+msgid "Links hover color"
+msgstr "קישור צבע ריחוף"
+
+#: child-themes/grandstore/functions/default-options.php:111,
+#: child-themes/grandstore/functions/default-options.php:169,
+#: child-themes/grandstore/functions/default-options.php:220,
+#: functions/admin/default-options/default-options-css-variables.php:45,
+#: functions/admin/default-options/default-options-css-variables.php:103,
+#: functions/admin/default-options/default-options-css-variables.php:154
+msgid "Border color"
+msgstr "צבע המסגרת"
+
+#: child-themes/grandstore/functions/default-options.php:119,
+#: functions/admin/default-options/default-options-css-variables.php:53
+msgid "Social icons color"
+msgstr "צבעי סמלים חברתיים"
+
+#: child-themes/grandstore/functions/default-options.php:127,
+#: functions/admin/default-options/default-options-css-variables.php:61
+msgid "Social icons hover color"
+msgstr "צבע רול-הובר של סמלים חברתיים"
+
+#: child-themes/grandstore/functions/default-options.php:145,
+#: child-themes/grandstore/functions/default-options.php:188,
+#: child-themes/grandstore/functions/default-options.php:295,
+#: functions/admin/default-options/default-options-css-variables.php:79,
+#: functions/admin/default-options/default-options-css-variables.php:122,
+#: functions/admin/default-options/default-options-css-variables.php:230
+msgid "Link color"
+msgstr "צבע קישורים"
+
+#: child-themes/grandstore/functions/default-options.php:153,
+#: child-themes/grandstore/functions/default-options.php:196,
+#: child-themes/grandstore/functions/default-options.php:303,
+#: functions/admin/default-options/default-options-css-variables.php:87,
+#: functions/admin/default-options/default-options-css-variables.php:130,
+#: functions/admin/default-options/default-options-css-variables.php:238
+msgid "Link hover color"
+msgstr "צבע רול-הובר של קישורים"
+
+#: child-themes/grandstore/functions/default-options.php:161,
+#: child-themes/grandstore/functions/default-options.php:204,
+#: child-themes/grandstore/functions/default-options.php:329,
+#: functions/admin/default-options/default-options-css-variables.php:95,
+#: functions/admin/default-options/default-options-css-variables.php:138,
+#: functions/admin/default-options/default-options-css-variables.php:258
+msgid "Background color"
+msgstr "צבע רקע"
+
+#: child-themes/grandstore/functions/default-options.php:212,
+#: functions/admin/default-options/default-options-css-variables.php:146
+msgid "Border top color"
+msgstr "צבע המסגרת עליונה"
+
+#: child-themes/grandstore/functions/default-options.php:228,
+#: child-themes/grandstore/functions/default-options.php:279,
+#: functions/admin/default-options/default-options-css-variables.php:162,
+#: functions/admin/default-options/default-options-css-variables.php:214
+msgid "Icons color"
+msgstr "צבעי סמלים"
+
+#: child-themes/grandstore/functions/default-options.php:236,
+#: functions/admin/default-options/default-options-css-variables.php:170
+msgid "Headline panel item background"
+msgstr "רקע של פריט בלוח הבקרה"
+
+#: child-themes/grandstore/functions/default-options.php:244,
+#: functions/admin/default-options/default-options-css-variables.php:178
+msgid "Headline panel item background hover"
+msgstr "צבע רול-הובר של פריט בלוח הבקרה"
+
+#: child-themes/grandstore/functions/default-options.php:253,
+#: functions/admin/default-options/default-options-css-variables.php:188
+msgid "Phone number color"
+msgstr "צבע מספר טלפון"
+
+#: child-themes/grandstore/functions/default-options.php:261,
+#: functions/admin/default-options/default-options-css-variables.php:196
+msgid "Phone icon color"
+msgstr "צבע סמל של מספר טלפון"
+
+#: child-themes/grandstore/functions/default-options.php:271,
+#: functions/admin/default-options/default-options-css-variables.php:206
+msgid "Border bottom color"
+msgstr "צבע המסגרת תחתונה"
+
+#: child-themes/grandstore/functions/default-options.php:311
+msgid "Search button background color"
+msgstr "צבע רקע של כפתור חיפוש"
+
+#: child-themes/grandstore/functions/default-options.php:319,
+#: functions/admin/default-options/default-options-css-variables.php:246
+msgid "Header bottom background color"
+msgstr "צבע רקע תחתון של כותרת"
+
+#: child-themes/grandstore/functions/default-options.php:337,
+#: functions/admin/default-options/default-options-css-variables.php:266,
+#: functions/admin/default-options/default-options-css-variables.php:340
+msgid "Background hover color"
+msgstr "צבע רול-הובר של רקע"
+
+#: child-themes/grandstore/functions/default-options.php:345,
+#: functions/admin/default-options/default-options-css-variables.php:274
+msgid "Background active color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:361,
+#: functions/admin/default-options/default-options-css-variables.php:290
+msgid "Text hover color"
+msgstr "צבע רול-הובר של טקסט"
+
+#: child-themes/grandstore/functions/default-options.php:369,
+#: functions/admin/default-options/default-options-css-variables.php:298
+msgid "Catalog button color"
+msgstr "צבע של כפתור קטלוג"
+
+#: child-themes/grandstore/functions/default-options.php:379,
+#: functions/admin/default-options/default-options-css-variables.php:308
+msgid "Hamburger icon color"
+msgstr "צבע של המבורגר סמל"
+
+#: child-themes/grandstore/functions/default-options.php:387,
+#: functions/admin/default-options/default-options-css-variables.php:316
+msgid "Menu background color"
+msgstr "רקע של תפריט"
+
+#: child-themes/grandstore/functions/default-options.php:395,
+#: functions/admin/default-options/default-options-css-variables.php:324
+msgid "Menu item border color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:403,
+#: functions/admin/default-options/default-options-css-variables.php:332
+msgid "Menu item text color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:411
+msgid "Menu item hover color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:419,
+#: functions/admin/default-options/default-options-css-variables.php:348
+msgid "Heading background color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:427,
+#: functions/admin/default-options/default-options-css-variables.php:356
+msgid "Heading text color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:438,
+#: functions/admin/default-options/default-options-css-variables.php:367
+msgid "Theme link color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:446,
+#: functions/admin/default-options/default-options-css-variables.php:375
+msgid "Theme link hover color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:455,
+#: functions/admin/default-options/default-options-css-variables.php:384
+msgid "Primary button color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:463,
+#: functions/admin/default-options/default-options-css-variables.php:392
+msgid "Primary button hover color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:471,
+#: functions/admin/default-options/default-options-css-variables.php:400
+msgid "Primary button background"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:479,
+#: functions/admin/default-options/default-options-css-variables.php:408
+msgid "Primary button hover background"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:487,
+#: functions/admin/default-options/default-options-css-variables.php:416
+msgid "Primary button border"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:495,
+#: functions/admin/default-options/default-options-css-variables.php:424
+msgid "Primary button hover border"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:503,
+#: functions/admin/default-options/default-options-css-variables.php:432
+msgid "Default button color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:511,
+#: functions/admin/default-options/default-options-css-variables.php:440
+msgid "Default button hover color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:519,
+#: functions/admin/default-options/default-options-css-variables.php:448
+msgid "Default button background"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:527,
+#: functions/admin/default-options/default-options-css-variables.php:456
+msgid "Default button hover background"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:535,
+#: functions/admin/default-options/default-options-css-variables.php:464
+msgid "Default button border"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:543,
+#: functions/admin/default-options/default-options-css-variables.php:472
+msgid "Default button hover border"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:553,
+#: functions/admin/default-options/default-options-css-variables.php:522
+msgid "Panels background color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:561,
+#: functions/admin/default-options/default-options-css-variables.php:530
+msgid "Panels heading color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:569,
+#: functions/admin/default-options/default-options-css-variables.php:538
+msgid "Panel text color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:579,
+#: functions/admin/default-options/default-options-css-variables.php:548
+msgid "Message success color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:587,
+#: functions/admin/default-options/default-options-css-variables.php:556
+msgid "Message success border color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:595,
+#: functions/admin/default-options/default-options-css-variables.php:564
+msgid "Message error color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:603,
+#: functions/admin/default-options/default-options-css-variables.php:572
+msgid "Message error border color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:611,
+#: functions/admin/default-options/default-options-css-variables.php:580
+msgid "Message info color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:619,
+#: functions/admin/default-options/default-options-css-variables.php:588
+msgid "Message info border color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:629,
+#: functions/admin/default-options/default-options-css-variables.php:598
+msgid "Theme main color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:637,
+#: functions/admin/default-options/default-options-css-variables.php:614
+msgid "Base site font color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:645,
+#: functions/admin/default-options/default-options-css-variables.php:622
+msgid "Secondary font color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:653,
+#: functions/admin/default-options/default-options-css-variables.php:630
+msgid "Base border color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:661,
+#: functions/admin/default-options/default-options-css-variables.php:638
+msgid "Star rating color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:669,
+#: functions/admin/default-options/default-options-css-variables.php:646
+msgid "Star rating empty color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:679,
+#: functions/admin/default-options/default-options-css-variables.php:656
+msgid "Form controls border color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:687,
+#: functions/admin/default-options/default-options-css-variables.php:664
+msgid "Form controls focused border color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:705,
+#: child-themes/grandstore/functions/default-options.php:715,
+#: functions/admin/default-options/default-options-css-variables.php:690,
+#: functions/admin/default-options/default-options-css-variables.php:700
+msgid "Product old price color"
+msgstr ""
+
+#: comments.php:13,
+#: premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:78
+msgid "Comments"
+msgstr "תגובות"
+
+#: comments.php:46
+msgid "There are no comments yet."
+msgstr "עדיין אין תגובות."
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr "תגובות סגורות."
+
+#: functions/admin/classes/class-saleszone-admin-page.php:112
+msgid "Select demodata preset"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-admin-page.php:227
+msgid ""
+"This action will delete all your posts, products, terms etc. Are you sure "
+"you want to continue?"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-admin-page.php:228,
+#: functions/admin/classes/class-saleszone-import-tool.php:126
+msgid "Import end"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-admin-page.php:255
+msgid "Getting started"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-admin-page.php:256,
+#: functions/admin/views/tab-main.php:184,
+#: functions/admin/views/tab-main.php:191
+msgid "Install demo data"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-admin-page.php:257
+msgid "Changelog"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-import-tool.php:117
+msgid "clean DB"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-import-tool.php:118
+msgid "clean transients"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-import-tool.php:119
+msgid "Import attributes"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-import-tool.php:120
+msgid "Import posts"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-import-tool.php:121
+msgid "Import terms"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-import-tool.php:122
+msgid "Import options"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-import-tool.php:123
+msgid "Import bundles"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-import-tool.php:124
+msgid "Import bundles products"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-import-tool.php:125
+msgid "Update WPML translations"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: functions/admin/classes/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: functions/admin/classes/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:346
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "התחל לעדכן את הפלאגין"
+msgstr[1] "התחל לעדכן את הפלאגינים"
+msgstr[2] "התחל לעדכן את הפלאגינים"
+msgstr[3] "התחל לעדכן את הפלאגינים"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "התחל להפעיל את הפלאגין"
+msgstr[1] "התחל להפעיל את הפלאגינים"
+msgstr[2] "התחל להפעיל את הפלאגינים"
+msgstr[3] "התחל להפעיל את הפלאגינים"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "חזור אל מתקין פלאגינים הנדרשים"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:386,
+#: functions/admin/classes/class-tgm-plugin-activation.php:827,
+#: functions/admin/classes/class-tgm-plugin-activation.php:2533,
+#: functions/admin/classes/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "חזור אל מרכז השליטה"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:387,
+#: functions/admin/classes/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "הפלאגין הופעל בהצלחה."
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:388,
+#: functions/admin/classes/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "הפלאגין הבא הופעל בהצלחה:"
+msgstr[1] "הפלאגים הבאים הופעלו בהצלחה:"
+msgstr[2] "הפלאגים הבאים הופעלו בהצלחה:"
+msgstr[3] "הפלאגים הבאים הופעלו בהצלחה:"
+
+#. translators: 1: plugin name.
+#: functions/admin/classes/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "לא נעשתה שום פעולה. הפלאגין %1$s כבר היה פעיל."
+
+#. translators: 1: plugin name.
+#: functions/admin/classes/class-tgm-plugin-activation.php:392
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"הפלאגין לא הופעל. יש צורך בגירסה גבוהה יותר של %s עבור תבנית זו. אנא עדכן את "
+"הפלאגין."
+
+#. translators: 1: dashboard link.
+#: functions/admin/classes/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "כל התוספים מותקנים ומופעלים בהצלחה. %1$s"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "בטל הודעה זו"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr "ישנם אחד או יותר תוספים להתקין, לעדכן או להפעיל."
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "פנה למנהל המערכת של אתר זה לקבלת עזרה."
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "תוסף זה צריך להיות מעודכן כדי להיות תואם את תבנית."
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "נדרש עדכון"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr "חבילת התוסף המרוחק אינה מכילה תיקיה עם הקליע הרצוי ושינוי השם לא פעלה."
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:934,
+#: functions/admin/classes/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"צור קשר עם ספק הפלאגין ובקש מהם לארוז את הפלאגין שלהם בהתאם להנחיות של "
+"WordPress."
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"חבילת התוסף המרוחק מורכבת מיותר מקובץ אחד, אך הקבצים אינם ארוזים בתיקייה."
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:1121,
+#: functions/admin/classes/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "ו"
+
+#. translators: %s: version number
+#: functions/admin/classes/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "חובה"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "מומלץ"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "מאגר וורדפרס"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "מקור חיצוני"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "ארוז מראש"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "לא מותקן"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "מותקן אך לא הופעל"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "פעיל"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "עדכון חובה לא זמין"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "זקוק לעדכון"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "עדכון מומלץ"
+
+#. translators: 1: install status, 2: update status
+#: functions/admin/classes/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: functions/admin/classes/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "כל ה-<span class=\"count\">(%s)</span>"
+msgstr[1] "כל ה-<span class=\"count\">(%s)</span>"
+msgstr[2] "כל ה-<span class=\"count\">(%s)</span>"
+msgstr[3] "כל ה-<span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: functions/admin/classes/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "להתקנה <span class=\"count\">(%s)</span>"
+msgstr[1] "להתקנה <span class=\"count\">(%s)</span>"
+msgstr[2] "להתקנה <span class=\"count\">(%s)</span>"
+msgstr[3] "להתקנה <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: functions/admin/classes/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "עדכון זמין <span class=\"count\">(%s)</span>"
+msgstr[1] "עדכון זמין <span class=\"count\">(%s)</span>"
+msgstr[2] "עדכון זמין <span class=\"count\">(%s)</span>"
+msgstr[3] "עדכון זמין <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: functions/admin/classes/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "כדי להפעיל <span class=\"count\">(%s)</span>"
+msgstr[1] "כדי להפעיל <span class=\"count\">(%s)</span>"
+msgstr[2] "כדי להפעיל <span class=\"count\">(%s)</span>"
+msgstr[3] "כדי להפעיל <span class=\"count\">(%s)</span>"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "לא ידוע"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "גרסה מותקנת:"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "הגרסה המינימלית הנדרשת:"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "גרסה זמינה:"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "אין תוספים להתקנה, לעדכון או להפעלה."
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "תוסף"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "מקור"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "סוג"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "גרסה"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "סטטוס"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/admin/classes/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "התקן %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/admin/classes/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "עדכן %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/admin/classes/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "הפעל %2$s"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "שדרג הודעה מבעל התוסף:"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "התקן"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "עדכן"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "הפעל"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "לא הותקנו תוספים להתקנה. לא נעשתה שום פעולה."
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "לא נבחרו תוספים לעדכון. לא נעשתה שום פעולה."
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "אין תוספים זמינים להתקנה בשלב זה."
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "אין תוספים זמינים לעדכון בשלב זה."
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "לא נבחרו תוספים להפעלה. לא נעשתה שום פעולה."
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "אין תוספים זמינים שיופעלו בשלב זה."
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "הפעלת הפלאגין נכשלה."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/admin/classes/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "מעדכן את הפלאגין %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: functions/admin/classes/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "אירעה שגיאה בעת ההתקנה %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: functions/admin/classes/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "ההתקנה של %1$s נכשלה."
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"תהליך ההתקנה וההפעלה מתחיל. תהליך זה עשוי להימשך זמן מה על כמה המארחים, אז "
+"אנא המתן בסבלנות."
+
+#. translators: 1: plugin name.
+#: functions/admin/classes/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s מותקן ומופעל בהצלחה."
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:3509,
+#: functions/admin/classes/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "הראה פרטים"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:3509,
+#: functions/admin/classes/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "הסתר פרטים"
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/admin/classes/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: functions/admin/classes/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "כל ההתקנות הושלמו."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/admin/classes/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "מתקין את הפלאגין %1$s (%2$d/%3$d)"
+
+#. translators: %1$s: Kirki plugin url
+#: functions/admin/customizer/config.php:24
+msgid ""
+"To display options for customizing the theme, install and activated the <a "
+"href=\"%1$s\">Kirki plugin</a>"
+msgstr ""
+"כדי להציג אפשרויות להתאמה אישית של ערכת הנושא, התקן והפעל את <a href=\"%1$s"
+"\"> תוסף Kirki </a>"
+
+#: functions/admin/default-options/default-options-css-variables.php:480
+msgid "Light button color"
+msgstr "צבע של הכפתור"
+
+#: functions/admin/default-options/default-options-css-variables.php:488
+msgid "Light button hover color"
+msgstr "צבע רול-הובר של הכפתור"
+
+#: functions/admin/default-options/default-options-css-variables.php:496
+msgid "Light button background"
+msgstr "צבע רקע של הכפתור"
+
+#: functions/admin/default-options/default-options-css-variables.php:504
+msgid "Light button hover background"
+msgstr "צבע רול-הובר של רקע הכפתור"
+
+#: functions/admin/default-options/default-options-css-variables.php:512
+msgid "Light button border"
+msgstr "מסגרת דקה של הכפתור"
+
+#: functions/admin/default-options/default-options-css-variables.php:606
+msgid "Theme secondary color"
+msgstr "צבע משנה של תבנית"
+
+#: functions/admin/default-options/default-options-css-variables.php:674
+msgid "Product price background color"
+msgstr "צבע הרקע של מחיר המוצר"
+
+#: functions/admin/default-options/default-options.php:15,
+#: functions/admin/default-options/default-options.php:85
+msgid "Search products"
+msgstr "חפש מוצרים"
+
+#: functions/admin/default-options/default-options.php:57,
+#: functions/admin/default-options/default-options.php:127
+msgid "Call us"
+msgstr "התקשר אלינו"
+
+#: functions/admin/options/colors/colors-body.php:7
+msgid "Body"
+msgstr "גוף"
+
+#: functions/admin/options/colors/colors-body.php:15
+msgid "Links"
+msgstr "קישורים"
+
+#: functions/admin/options/colors/colors-body.php:39
+msgid "Buttons"
+msgstr "כפתורים"
+
+#: functions/admin/options/colors/colors-body.php:63
+msgid "Panels"
+msgstr "פאנלים"
+
+#: functions/admin/options/colors/colors-body.php:87
+msgid "Message"
+msgstr "הודעה"
+
+#: functions/admin/options/colors/colors-body.php:110
+msgid "Form controls"
+msgstr "בקרים של הטופס"
+
+#: functions/admin/options/colors/colors-body.php:133
+msgid "Other"
+msgstr "אחר"
+
+#: functions/admin/options/colors/colors-body.php:156,
+#: functions/admin/options/panels.php:19, parts/mobile-menu/mobile-frame.php:5
+msgid "Shop"
+msgstr "חנות"
+
+#: functions/admin/options/colors/colors-footer.php:7,
+#: functions/admin/options/colors/colors-footer.php:15,
+#: functions/admin/options/panels.php:36
+msgid "Footer"
+msgstr "פוטר"
+
+#: functions/admin/options/colors/colors-footer.php:23,
+#: functions/admin/options/colors/colors-header.php:48
+msgid "Footer background"
+msgstr "תמונת רקע של הפוטר"
+
+#: functions/admin/options/colors/colors-footer.php:49
+msgid "Basement"
+msgstr "מרתף"
+
+#: functions/admin/options/colors/colors-header.php:7,
+#: functions/admin/options/panels.php:9
+msgid "Header"
+msgstr "הדר"
+
+#: functions/admin/options/colors/colors-header.php:16
+msgid "Header top bar"
+msgstr "הדר בר עליון"
+
+#: functions/admin/options/colors/colors-header.php:40
+msgid "Header main"
+msgstr "הדר ראשי"
+
+#: functions/admin/options/colors/colors-header.php:73
+msgid "Header bottom"
+msgstr "הדר תחתון"
+
+#: functions/admin/options/colors/colors-menu.php:7
+msgid "Navigation"
+msgstr "ניווט"
+
+#: functions/admin/options/colors/colors-menu.php:15
+msgid "Main navigation"
+msgstr "ניווט ראשי"
+
+#: functions/admin/options/colors/colors-menu.php:40
+msgid "Off-Canvas Menu"
+msgstr ""
+
+#: functions/admin/options/footer/footer.php:10
+msgid "Before footer"
+msgstr "לפני פוטר"
+
+#: functions/admin/options/footer/footer.php:16,
+#: functions/admin/options/footer/footer.php:72,
+#: functions/admin/options/footer/footer.php:81
+msgid "Add Any HTML or Shortcode here."
+msgstr "הוסף כל HTML או שורטקוד כאן."
+
+#: functions/admin/options/footer/footer.php:26
+msgid "Footer main"
+msgstr "פוטר ראשי"
+
+#: functions/admin/options/footer/footer.php:32
+msgid "Enabled footer main"
+msgstr "מופעל פוטר ראשי"
+
+#: functions/admin/options/footer/footer.php:40
+msgid "Columns"
+msgstr "עמודות"
+
+#: functions/admin/options/footer/footer.php:57
+msgid "Footer secondary"
+msgstr "פוטר משנה מופעל"
+
+#: functions/admin/options/footer/footer.php:63
+msgid "Enabled footer secondary"
+msgstr "מופעל פוטר משנה"
+
+#: functions/admin/options/footer/footer.php:71
+msgid "Footer copyright left"
+msgstr "כותרת תחתונה זכויות יוצרים השמאלית"
+
+#: functions/admin/options/footer/footer.php:80
+msgid "Footer copyright right"
+msgstr "כותרת תחתונה זכויות יוצרים"
+
+#: functions/admin/options/header/header.php:9
+msgid "Header layouts"
+msgstr "פריסות Header"
+
+#: functions/admin/options/header/header.php:26
+msgid "Search placeholder"
+msgstr "טקסט פלאיסהולדר של שדה חיפוש"
+
+#: functions/admin/options/header/header.php:35
+msgid "Main menu type"
+msgstr "סוג התפריט הראשי"
+
+#: functions/admin/options/header/header.php:39
+msgid "Tree menu"
+msgstr "תפריט עץ"
+
+#: functions/admin/options/header/header.php:40
+msgid "Mega menu"
+msgstr "תפריט מגה"
+
+#: functions/admin/options/header/header.php:49
+msgid "header phone"
+msgstr "טלפון הכותרת"
+
+#: functions/admin/options/header/header.php:55
+msgid "Phone title"
+msgstr "כותרת הטלפון"
+
+#: functions/admin/options/header/header.php:63
+msgid "Write each of your numbers with a new line"
+msgstr "כתוב את כל המספרים שלך עם שורה חדשה"
+
+#: functions/admin/options/header/header.php:64,
+#: premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:52,
+#: premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:55,
+#: premmerce-woocommerce-buy-now/oneclickorder-popup.php:82,
+#: woocommerce/myaccount/my-address.php:27,
+#: woocommerce/order/order-details-customer.php:25
+msgid "Phone"
+msgstr "טלפון"
+
+#: functions/admin/options/header/header.php:72
+msgid "Phone type"
+msgstr "סגנון הטלפון"
+
+#: functions/admin/options/header/header.php:77,
+#: functions/admin/options/shop/shop-category.php:72
+msgid "List"
+msgstr "רשימת"
+
+#: functions/admin/options/header/header.php:78
+msgid "list horizontal"
+msgstr "רשימה אופקית"
+
+#: functions/admin/options/header/header.php:79
+msgid "dropdown"
+msgstr "התפריט הנפתח"
+
+#: functions/admin/options/header/header.php:86
+msgid "Show phone icon"
+msgstr "הצג את סמל הטלפון"
+
+#: functions/admin/options/header/header.php:94
+msgid "Icon style"
+msgstr "סגנון של סמל \"טלפון\""
+
+#: functions/admin/options/header/header.php:111
+msgid "Phone icon size"
+msgstr "גודל של סמל הטלפון"
+
+#: functions/admin/options/header/header.php:126
+msgid "Phone title font size"
+msgstr "גודל גופן של מס' טלפון"
+
+#: functions/admin/options/header/header.php:141
+msgid "Phone font size"
+msgstr "גודל גופן של מס' טלפון"
+
+#: functions/admin/options/panels.php:14
+msgid "Colors"
+msgstr "צבעים"
+
+#: functions/admin/options/panels.php:25
+msgid "Social Icons"
+msgstr "סמלים רשתות חברתיות"
+
+#: functions/admin/options/panels.php:30
+msgid "Typography"
+msgstr "טיפוגרפיה"
+
+#: functions/admin/options/shop/shop-benefits.php:7
+msgid "Benefits"
+msgstr "יתרונות"
+
+#: functions/admin/options/shop/shop-benefits.php:13
+msgid "Shop benefits"
+msgstr "יתרונות החנות"
+
+#: functions/admin/options/shop/shop-benefits.php:15
+msgid "You can add these block anywhere by using the shortcode [benefits]"
+msgstr "ניתן להוסיף בלוקים אלה בכל מקום באמצעות shortcode [benefits]"
+
+#: functions/admin/options/shop/shop-benefits.php:18
+msgid "Benefit"
+msgstr ""
+
+#: functions/admin/options/shop/shop-benefits.php:25
+msgid "Benefit title"
+msgstr ""
+
+#: functions/admin/options/shop/shop-benefits.php:29
+msgid "Benefit description"
+msgstr ""
+
+#: functions/admin/options/shop/shop-benefits.php:33
+msgid "Benefit font awesome icon"
+msgstr ""
+
+#: functions/admin/options/shop/shop-benefits.php:38
+msgid "Benefit image"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:7,
+#: functions/widgets/premmerce-recent-post.php:120
+msgid "Category"
+msgstr "קטגוריה"
+
+#: functions/admin/options/shop/shop-category.php:15
+msgid "Options"
+msgstr "אפשרויות"
+
+#: functions/admin/options/shop/shop-category.php:21
+msgid "Products grid per row"
+msgstr "כמות מוצרים בכל שורה"
+
+#: functions/admin/options/shop/shop-category.php:36
+msgid "Products per page"
+msgstr "כמות מוצרים בעמוד"
+
+#: functions/admin/options/shop/shop-category.php:49
+msgid "Display show/hide button for catalog description"
+msgstr "לחצן הצג / הסתר עבור תיאור הקטלוג"
+
+#: functions/admin/options/shop/shop-category.php:57
+msgid "Show description below category heading"
+msgstr "הצג תיאור מתחת לקטגוריה"
+
+#: functions/admin/options/shop/shop-category.php:67
+msgid "Default products view"
+msgstr "תצוגת ברירת מחדל של מוצרים"
+
+#: functions/admin/options/shop/shop-category.php:71
+msgid "Grid"
+msgstr "גריד"
+
+#: functions/admin/options/shop/shop-category.php:81,
+#: functions/admin/options/shop/shop-product.php:7,
+#: premmerce-woocommerce-price-tracking/price-spy-table.php:20,
+#: premmerce-woocommerce-price-tracking/price-spy-table.php:47,
+#: premmerce-woocommerce-waiting-list/user_subscriptions_table.php:20
+msgid "Product"
+msgstr "מוצר"
+
+#: functions/admin/options/shop/shop-category.php:88
+msgid "Enabled flipper"
+msgstr "פליפר מופעל"
+
+#: functions/admin/options/shop/shop-category.php:96
+msgid "Flipper animation"
+msgstr "אנימציה פליפר"
+
+#: functions/admin/options/shop/shop-category.php:100
+msgid "None"
+msgstr "אף אחד"
+
+#: functions/admin/options/shop/shop-category.php:101
+msgid "Slow"
+msgstr "איטי"
+
+#: functions/admin/options/shop/shop-category.php:102
+msgid "Normal"
+msgstr "רגיל"
+
+#: functions/admin/options/shop/shop-category.php:103
+msgid "Fast"
+msgstr "מהר"
+
+#: functions/admin/options/shop/shop-category.php:110
+msgid "Use Ajax For change product variation"
+msgstr "השתמש ב- Ajax לשינוי וריאציית המוצר"
+
+#: functions/admin/options/shop/shop-category.php:111
+msgid ""
+"The variation will change with a slight delay. (Optimization for page with "
+"lot of variable products)"
+msgstr ""
+"וריאציה ישתנה עם עיכוב קל. (אופטימיזציה עבור הדף עם הרבה מוצרים משתנים)"
+
+#: functions/admin/options/shop/shop-category.php:119
+msgid "Enabled LazyLoad"
+msgstr "מופעל LazyLoad"
+
+#: functions/admin/options/shop/shop-category.php:120
+msgid ""
+"Delay loading of images in long web pages. Images outside of viewport wont "
+"be loaded before user scrolls to them."
+msgstr ""
+"עיכוב טעינת תמונות בדפי אינטרנט ארוכים. תמונות מחוץ לוופורט לא יטענו לפני "
+"המשתמש גולל אליהם."
+
+#: functions/admin/options/shop/shop-category.php:128
+msgid "Enabled spinner"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:137
+msgid "Purchase block"
+msgstr "בלוק רכישה"
+
+#: functions/admin/options/shop/shop-category.php:141
+msgid "Show button and quantity field"
+msgstr "הצג כפתור ושדה כמות"
+
+#: functions/admin/options/shop/shop-category.php:142
+msgid "Show only button"
+msgstr "הצג כפתור בלבד"
+
+#: functions/admin/options/shop/shop-category.php:143,
+#: woocommerce/loop/archive-description.php:14
+msgid "Hide"
+msgstr "הסתר"
+
+#: functions/admin/options/shop/shop-category.php:150
+msgid "Enabled quick view"
+msgstr "הפעלת תצוגה מהירה"
+
+#: functions/admin/options/shop/shop-category.php:158
+msgid "Show sales end date"
+msgstr "הצג את תאריך הסיום של המכירות"
+
+#: functions/admin/options/shop/shop-category.php:166
+msgid "Show variations"
+msgstr "הצג וריאציות"
+
+#: functions/admin/options/shop/shop-category.php:175
+msgid "Show short description"
+msgstr "הצג תיאור קצר"
+
+#: functions/admin/options/shop/shop-category.php:183
+msgid "Show attributes"
+msgstr "הצג תכונות"
+
+#: functions/admin/options/shop/shop-category.php:191
+msgid "Display stock status"
+msgstr "הצג סטטוס המלאי"
+
+#: functions/admin/options/shop/shop-category.php:200
+msgid "Show load more button"
+msgstr "הצג לחצן \"טען עוד\""
+
+#: functions/admin/options/shop/shop-category.php:209,
+#: functions/admin/options/shop/shop-product.php:89
+msgid "Button add to cart show icon"
+msgstr "הצג סמל לחצן \"הוסף לסל\""
+
+#: functions/admin/options/shop/shop-category.php:217
+msgid "Show active filter"
+msgstr "צג מסנן פעיל"
+
+#: functions/admin/options/shop/shop-checkout.php:7
+msgid "Checkout"
+msgstr "לקופה"
+
+#: functions/admin/options/shop/shop-checkout.php:14
+msgid "List of payer form fields"
+msgstr "רשימת שדות טופס המשלם"
+
+#: functions/admin/options/shop/shop-checkout.php:15
+msgid "Working only if woocommerce checkout manager is disabled"
+msgstr "עבודה רק אם מנהל לקוחות woocommerce מושבת"
+
+#: functions/admin/options/shop/shop-checkout.php:19
+msgid "Short"
+msgstr "קצר"
+
+#: functions/admin/options/shop/shop-checkout.php:20
+msgid "Full"
+msgstr "מלא"
+
+#: functions/admin/options/shop/shop-general.php:7
+msgid "General"
+msgstr "כללי"
+
+#: functions/admin/options/shop/shop-general.php:15
+msgid "Enable catalog mode"
+msgstr "הפעל מצב קטלוג"
+
+#: functions/admin/options/shop/shop-general.php:23
+msgid "Site layout"
+msgstr ""
+
+#: functions/admin/options/shop/shop-general.php:28
+msgid "Boxed"
+msgstr ""
+
+#: functions/admin/options/shop/shop-general.php:29
+msgid "Fluid"
+msgstr ""
+
+#: functions/admin/options/shop/shop-general.php:36
+msgid "Boxed layout background"
+msgstr ""
+
+#: functions/admin/options/shop/shop-general.php:45
+msgid "Header and Footer width"
+msgstr "כותרת עליונה ותחתונה"
+
+#: functions/admin/options/shop/shop-general.php:54
+msgid "Content width"
+msgstr "רוחב תוכן"
+
+#: functions/admin/options/shop/shop-general.php:64
+msgid "Boxed container width"
+msgstr ""
+
+#: functions/admin/options/shop/shop-homepage.php:7
+msgid "Home page"
+msgstr "עמוד הבית"
+
+#: functions/admin/options/shop/shop-homepage.php:14
+msgid "Front page below header"
+msgstr "העמוד הראשון - הדר התחתון"
+
+#: functions/admin/options/shop/shop-homepage.php:15
+msgid ""
+"Content added to this field will appear beneath the header and above the "
+"main content on Front page."
+msgstr "תוכן שנוסף לשדה זה יופיע מתחת לכותרת ומעל לתוכן הראשי בעמוד הראשי."
+
+#: functions/admin/options/shop/shop-homepage.php:23
+msgid "Home page SEO text"
+msgstr "טקסט לקידום בעמוד הבית"
+
+#: functions/admin/options/shop/shop-payment-icons.php:7,
+#: functions/admin/options/shop/shop-payment-icons.php:14
+msgid "Payment icons"
+msgstr "סמלי אמצעי תשלום"
+
+#: functions/admin/options/shop/shop-payment-icons.php:15
+msgid ""
+"This graphical icons that let you show what kind of shopping payments your "
+"shop supports. You can add these anywere by using the shortcode [payment-"
+"icons]"
+msgstr ""
+"זה סמלים גרפיים המאפשרים לך להראות איזה סוג של תשלומים קניות החנות שלך תומך. "
+"ניתן להוסיף את כל אלה באמצעות הקיצור [payment-icons]"
+
+#: functions/admin/options/shop/shop-payment-icons.php:20
+msgid "American Express"
+msgstr ""
+
+#: functions/admin/options/shop/shop-payment-icons.php:21
+msgid "LiqPay"
+msgstr ""
+
+#: functions/admin/options/shop/shop-payment-icons.php:22
+msgid "MasterCard"
+msgstr ""
+
+#: functions/admin/options/shop/shop-payment-icons.php:23
+msgid "PayPal"
+msgstr ""
+
+#: functions/admin/options/shop/shop-payment-icons.php:24
+msgid "PrivatBank"
+msgstr ""
+
+#: functions/admin/options/shop/shop-payment-icons.php:25
+msgid "Visa"
+msgstr ""
+
+#: functions/admin/options/shop/shop-payment-icons.php:26
+msgid "Webmoney"
+msgstr ""
+
+#: functions/admin/options/shop/shop-product.php:15
+msgid "Product setting"
+msgstr "הגדרת מוצר"
+
+#: functions/admin/options/shop/shop-product.php:21
+msgid "Variations custom select"
+msgstr "בחירת וריאציות מותאמות אישית"
+
+#: functions/admin/options/shop/shop-product.php:30
+msgid "Show Sales countdown times"
+msgstr "הצג זמני ספירה לאחור של מכירות"
+
+#: functions/admin/options/shop/shop-product.php:39,
+#: functions/register-sidebar.php:68
+msgid "Product sidebar"
+msgstr "סרגל צד של המוצר"
+
+#: functions/admin/options/shop/shop-product.php:47
+msgid "Product main attributes"
+msgstr "תכונות עיקריות של המוצר"
+
+#: functions/admin/options/shop/shop-product.php:57
+msgid "Tabs type"
+msgstr "סגנון הטאבים"
+
+#: functions/admin/options/shop/shop-product.php:61
+msgid "No tabs"
+msgstr "אין טאבים"
+
+#: functions/admin/options/shop/shop-product.php:62
+msgid "Tabs"
+msgstr "טאבים"
+
+#: functions/admin/options/shop/shop-product.php:70,
+#: functions/custom-types/gallery.php:8, functions/custom-types/gallery.php:21
+msgid "Gallery"
+msgstr "גלריה"
+
+#: functions/admin/options/shop/shop-product.php:76
+msgid "Thumbnails type"
+msgstr "סוג תמונות ממוזערות"
+
+#: functions/admin/options/shop/shop-product.php:80
+msgid "simple"
+msgstr "פשוט"
+
+#: functions/admin/options/shop/shop-product.php:81
+msgid "slides"
+msgstr "סליידים"
+
+#: functions/admin/options/shop/shop-product.php:98
+msgid "Add to cart button icon style"
+msgstr "סגנון של כפתור \"הוסף לסל\""
+
+#: functions/admin/options/social-icons/social-icons.php:9
+msgid "Follow Icons"
+msgstr "סמלי מעקב"
+
+#: functions/admin/options/social-icons/social-icons.php:16
+msgid "This is the default settings for the [follow] shortcode."
+msgstr "זוהי הגדרה ברירת המחדל עבור [follow] shortcode."
+
+#: functions/admin/options/social-icons/social-icons.php:35
+msgid "Share Icons"
+msgstr "סמלי שיתוף"
+
+#: functions/admin/options/title-tagline/title-tagline.php:8
+msgid "Display site tagline"
+msgstr "הצג את שורת התג של האתר"
+
+#: functions/admin/options/title-tagline/title-tagline.php:16
+msgid "Logo Padding"
+msgstr "מרווח הלוגו"
+
+#: functions/admin/options/title-tagline/title-tagline.php:30
+msgid "Logo container max width"
+msgstr "רוחב מקסימלי של מכולה של לוגו"
+
+#: functions/admin/options/typo/typo.php:8
+msgid "Disable google fonts. Fonts are used by default."
+msgstr "השבת גופני Google. גופנים משמשים כברירת מחדל."
+
+#: functions/admin/options/typo/typo.php:16
+msgid "Base theme font"
+msgstr "גופן עיצוב בסיסי"
+
+#: functions/admin/views/main.php:13
+msgid "Welcome to"
+msgstr "ברוך הבא ל"
+
+#: functions/admin/views/main.php:17
+msgid ""
+"is now installed and ready to be used. We hope the following information "
+"will help you. If you want to ask any question or just say hello, you can "
+"always contact us. We hope you will enjoy it!"
+msgstr ""
+"מותקן ומוכן לשימוש. אנו מקווים שהמידע הבא יעזור לך. אם אתה רוצה לשאול כל "
+"שאלה או פשוט להגיד שלום, אתה תמיד יכול לפנות אלינו. אנו מקווים שתיהנו ממנו!"
+
+#: functions/admin/views/main.php:27
+msgid "http://saleszone-free.premmerce.com/"
+msgstr ""
+
+#: functions/admin/views/main.php:30
+msgid "http://saleszone.premmerce.com/"
+msgstr ""
+
+#: functions/admin/views/main.php:33, functions/admin/views/tab-main.php:279
+msgid "https://premmerce.com/woocommerce-saleszone-theme-tutorial/"
+msgstr ""
+
+#: functions/admin/views/main.php:34, functions/admin/views/tab-main.php:280
+msgid "SalesZone documentation"
+msgstr ""
+
+#: functions/admin/views/main.php:38
+msgid "Rate This Theme"
+msgstr ""
+
+#: functions/admin/views/main.php:42
+msgid "View Demo"
+msgstr "הצג הדגמה"
+
+#: functions/admin/views/main.php:46
+msgid "Contact Us"
+msgstr "התקשר אלינו"
+
+#. translators: %1$s: theme name, %2$s theme version
+#: functions/admin/views/notice.php:11
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#. translators: %1$s: theme name, %2$s link
+#: functions/admin/views/notice.php:19
+msgid ""
+"Great to see you around! Thank you for choosing %1$s! To take advantage of "
+"the best our theme can offer, please make sure you have visited our <a href="
+"\"%2$s\">Welcome page</a>."
+msgstr ""
+
+#. translators: %s theme name
+#: functions/admin/views/notice.php:30
+msgid "Get started with %s"
+msgstr "התחל בעבודה עם %s"
+
+#: functions/admin/views/tab-import.php:8
+msgid "Installation of the demo data will take from 10 to 15 minutes."
+msgstr "ההתקנה של נתוני ההדגמה תימשך בין 10 ל -15 דקות."
+
+#: functions/admin/views/tab-import.php:14
+msgid "Import"
+msgstr "ייבוא"
+
+#: functions/admin/views/tab-import.php:24
+msgid ""
+"For the data installer to work, you need to install and activate WooCommerce"
+msgstr ""
+
+#: functions/admin/views/tab-import.php:49,
+#: functions/admin/views/tab-main.php:70
+msgid "Activate WooCommerce"
+msgstr ""
+
+#: functions/admin/views/tab-import.php:51,
+#: functions/admin/views/tab-main.php:72
+msgid "Install WooCommerce"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:30
+msgid "Install recommended plugins"
+msgstr "התקן תוספים מומלצים"
+
+#: functions/admin/views/tab-main.php:34
+msgid ""
+"WooCommerce is a basic platform for your future store, one of the most "
+"popular on the web. After activation WooCommerce will suggest using the "
+"WooCommerce Onboarding Wizard which you can either use or skip and continue "
+"settings with the Premmerce Setup Wizard."
+msgstr ""
+
+#: functions/admin/views/tab-main.php:37
+msgid ""
+"Premmerce is a toolkit of plugins which unites the most essential tools to "
+"amplify the WooCommerce core features together with a step-by-step tutorial, "
+"called Premmerce Wizard."
+msgstr ""
+
+#: functions/admin/views/tab-main.php:40
+msgid ""
+"The Kikri plugin is essential for displaying all options that are available "
+"for the theme customization via the WordPress Customizer."
+msgstr ""
+
+#: functions/admin/views/tab-main.php:43
+msgid ""
+"With MetaSlider, you can create your own unique, SEO-optimized slideshow in "
+"a matter of seconds!"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:100
+msgid "Activate Premmerce"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:102
+msgid "Install Premmerce"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:129
+msgid "Activate MetaSlider"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:131
+msgid "Install MetaSlider"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:158
+msgid "Activate kirki"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:160
+msgid "Install Kikri"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:187
+msgid "You can import the demo content with just one click."
+msgstr "ניתן לייבא את תוכן ההדגמה בלחיצת כפתור אחת בלבד."
+
+#: functions/admin/views/tab-main.php:213
+msgid "Make WooCommerce Settings with Premmerce Wizard"
+msgstr "בצע את הגדרות. עם אשף Premmerce"
+
+#: functions/admin/views/tab-main.php:216
+msgid ""
+"Premmerce Wizard will help you with a full set up of your WooCommerce store."
+msgstr "Premmerce אשף יעזור לך עם סט מלא של החנות שלך WooCommerce."
+
+#: functions/admin/views/tab-main.php:221
+msgid "Go to Premmerce Wizard"
+msgstr "עבור אל אשף Premmerce"
+
+#: functions/admin/views/tab-main.php:244
+msgid "Customize your theme"
+msgstr "התאם אישית את העיצוב שלך"
+
+#: functions/admin/views/tab-main.php:247
+msgid ""
+"All Settings, Theme Options, Widgets and Menus are available via Customize "
+"screen. Have a quick look at it or start customization right away!"
+msgstr ""
+"כל ההגדרות, אפשרויות ערכת נושא, יישומונים ותפריטים זמינים דרך התאמה אישית של "
+"המסך. יש מבט מהיר על זה או להתחיל התאמה אישית מיד!"
+
+#: functions/admin/views/tab-main.php:251
+msgid "Go to Customizer"
+msgstr "עבור התאמה אישית"
+
+#: functions/admin/views/tab-main.php:273
+msgid "Theme documentation"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:276
+msgid ""
+"Need help with setting up and configuring? Please take a look at our "
+"documentation page."
+msgstr ""
+
+#: functions/admin/views/upgrade-to-premium.php:10
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: functions/assets.php:41
+msgid "Close (Esc)"
+msgstr "סגור"
+
+#: functions/assets.php:42, premmerce-product-comparison/comparison-btn.php:40,
+#: premmerce-product-comparison/comparison-btn.php:73
+msgid "Loading..."
+msgstr "טעינה..."
+
+#: functions/assets.php:43
+msgid "Previous (Left arrow key)"
+msgstr "הקודם (מקש חץ שמאלה)"
+
+#: functions/assets.php:44
+msgid "Next (Right arrow key)"
+msgstr "הבא (מקש חץ ימינה)"
+
+#. translators: %curr% current image %total% images
+#: functions/assets.php:46
+msgid "%curr% of %total%"
+msgstr "%curr% מתוך %total%"
+
+#: functions/custom-types/gallery.php:9
+msgid "Album"
+msgstr "אלבום"
+
+#: functions/custom-types/gallery.php:10
+msgid "Add a new"
+msgstr "הוסף חדש"
+
+#: functions/custom-types/gallery.php:11
+msgid "Add album"
+msgstr "הוסף אלבום"
+
+#: functions/custom-types/gallery.php:12
+msgid "Edit album"
+msgstr "עריכת אלבום"
+
+#: functions/custom-types/gallery.php:13
+msgid "New album"
+msgstr "אלבום חדש"
+
+#: functions/custom-types/gallery.php:14
+msgid "View album"
+msgstr "צפייה באלבום"
+
+#: functions/custom-types/gallery.php:15
+msgid "Search for albums"
+msgstr "חפש אלבומים"
+
+#: functions/custom-types/gallery.php:16
+msgid "Albums not found"
+msgstr "האלבומים לא נמצאו"
+
+#: functions/custom-types/gallery.php:17
+msgid "No albums found in the trash"
+msgstr "לא נמצאו אלבומים בפח"
+
+#: functions/custom-types/gallery.php:18, parts/gallery/gallery-menu.php:8,
+#: parts/gallery/gallery-menu.php:14
+msgid "All albums"
+msgstr "כל האלבומים"
+
+#: functions/custom-types/gallery.php:19
+msgid "Archives of albums"
+msgstr "ארכיון של אלבומים"
+
+#: functions/custom-types/gallery.php:20
+msgid "Paste into album"
+msgstr "הדבק לתוך האלבום"
+
+#: functions/custom-types/gallery.php:22
+msgid "Album list"
+msgstr "רשימת אלבומים"
+
+#: functions/custom-types/gallery.php:53,
+#: functions/custom-types/gallery.php:54, functions/custom-types/gallery.php:55
+msgid "Gallery categories"
+msgstr "קטגוריות של גלריה"
+
+#: functions/custom-types/gallery.php:56
+msgid "All categories gallery"
+msgstr "כל הקטגוריות של גלריה"
+
+#: functions/custom-types/gallery.php:57
+msgid "Change gallery category"
+msgstr "שנה את הקטגוריה של גלריה"
+
+#: functions/custom-types/gallery.php:58
+msgid "View gallery category"
+msgstr "הצג קטגוריה לגלריה"
+
+#: functions/custom-types/gallery.php:59
+msgid "Update gallery category"
+msgstr "עדכון קטגוריה לגלריה"
+
+#: functions/custom-types/gallery.php:60
+msgid "Add a new category to the gallery"
+msgstr "הוסף קטגוריה חדשה לגלריה"
+
+#: functions/custom-types/gallery.php:61
+msgid "Search gallery categories"
+msgstr "חפש קטגוריות של גלריה"
+
+#: functions/custom-types/gallery.php:62
+msgid "No gallery categories found."
+msgstr "לא נמצאו קטגוריות של גלריה."
+
+#: functions/filters-functions.php:6,
+#: woocommerce/loop/archive-description.php:13,
+#: woocommerce/loop/archive-description.php:19
+msgid "Read more"
+msgstr "קרא עוד"
+
+#: functions/filters-functions.php:48
+msgid "In stock"
+msgstr "במלאי"
+
+#: functions/filters-functions.php:82,
+#: premmerce-woocommerce-product-bundles/product-bundles-list.php:154
+msgid "Add to cart"
+msgstr "הוסף לעגלה"
+
+#: functions/filters-functions.php:98
+msgid "Specifications"
+msgstr "מפרטים"
+
+#: functions/filters-functions.php:111
+msgid "Accessories"
+msgstr "אביזרים"
+
+#: functions/helpers.php:649
+msgid "Social Login"
+msgstr "כניסה באמצעות רשתות חברתיות"
+
+#: functions/helpers.php:650
+msgid "Unlink account from"
+msgstr "בטל את קישור החשבון מ"
+
+#: functions/helpers.php:651
+msgid "Link account with"
+msgstr "קשר את החשבון עם"
+
+#: functions/helpers.php:759
+msgid "Your review"
+msgstr "הסקירה שלך"
+
+#: functions/helpers.php:761,
+#: premmerce-woocommerce-buy-now/oneclickorder-popup.php:96
+msgid "Your comment"
+msgstr "התגובה שלך"
+
+#: functions/helpers.php:773
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr "שמור שם, הדוא\"ל שלי, ואת האתר בדפדפן זה בפעם הבאה שאני הגבתי."
+
+#: functions/helpers.php:792, functions/helpers.php:832,
+#: premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:24,
+#: premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:27,
+#: premmerce-woocommerce-buy-now/oneclickorder-popup.php:55
+msgid "Name"
+msgstr "שם"
+
+#: functions/helpers.php:794, functions/helpers.php:834,
+#: premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:38,
+#: premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:41,
+#: premmerce-woocommerce-buy-now/oneclickorder-popup.php:69,
+#: premmerce-woocommerce-price-tracking/price-spy-form.php:64,
+#: premmerce-woocommerce-waiting-list/product-wait-popup.php:71,
+#: woocommerce/order/order-details-customer.php:24
+msgid "Email"
+msgstr "הדוא\"ל"
+
+#: functions/helpers.php:800, functions/helpers.php:839
+msgid "Submit"
+msgstr "שלח"
+
+#. translators: %s: url
+#: functions/helpers.php:808
+msgid "You must be <a href=%s>logged in</a> to post a comment."
+msgstr "עליך להיות <a href=%s>מחובר></a> כדי לפרסם תגובה."
+
+#. translators: %s: url
+#. translators: %s: url
+#: functions/helpers.php:848, parts/review/review-form.php:11
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr "עליך להיות <a href=%s>מחובר></a> כדי לפרסם סקירה."
+
+#: functions/hooks-functions.php:542
+msgid "More details"
+msgstr "פרטים נוספים"
+
+#: functions/navs/WalkerMobileStatic.php:12
+msgid "Go back"
+msgstr "חזרה"
+
+#: functions/navs/WalkerMobileStatic.php:19
+msgid "Show all"
+msgstr "הצג הכול"
+
+#: functions/register-sidebar.php:13,
+#: premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:92,
+#: premmerce-woocommerce-buy-now/oneclickorder-popup.php:109,
+#: premmerce-woocommerce-price-tracking/price-spy-form.php:78,
+#: premmerce-woocommerce-waiting-list/product-wait-popup.php:84,
+#: premmerce-woocommerce-wishlist/wishlist-popup.php:117,
+#: premmerce-woocommerce-wishlist/wishlist-rename.php:22,
+#: woocommerce/single-product/product-image.php:26
+msgid "Close"
+msgstr "סגור"
+
+#: functions/register-sidebar.php:14
+msgid "Show"
+msgstr "הצג"
+
+#: functions/register-sidebar.php:28
+msgid "Blog sidebar"
+msgstr "הסרגל הצדדי של הבלוג"
+
+#: functions/register-sidebar.php:29
+msgid "Sidebar on blog pages"
+msgstr "הסרגל הצדדי בדפי הבלוג"
+
+#: functions/register-sidebar.php:38
+msgid "Catalog sidebar"
+msgstr "סרגל צדדי של קטלוג"
+
+#: functions/register-sidebar.php:39
+msgid "Sidebar on Woocommerce Catalog pages"
+msgstr "סרגל צדדי בדפי קטלוג של ווקומרס"
+
+#: functions/register-sidebar.php:48
+msgid "Subcategories sidebar"
+msgstr "קטגוריות משנה"
+
+#: functions/register-sidebar.php:49
+msgid "Sidebar on Woocommerce Subcategories pages"
+msgstr "סרגל צדדי בדפי קטגוריות משנה של ווקומרס"
+
+#: functions/register-sidebar.php:58
+msgid "Front Page widgets"
+msgstr "ווידג'טים בעמוד הבית"
+
+#: functions/register-sidebar.php:59
+msgid "Widgets bar on Front page"
+msgstr "סרגל ווידג'טים בעמוד הבית"
+
+#: functions/register-sidebar.php:69
+msgid "Sidebar on product pages"
+msgstr "סרגל צדדי בדפי מוצרים"
+
+#: functions/register-sidebar.php:81, functions/register-sidebar.php:82
+msgid "Footer Column"
+msgstr "טור בפוטר"
+
+#: functions/shortcodes/products_viewed.php:76
+msgid "Recently Viewed"
+msgstr "נצפה לאחרונה"
+
+#: functions/widgets/premmerce-recent-post.php:18
+msgid "Order by date"
+msgstr "סדר לפי תאריך"
+
+#: functions/widgets/premmerce-recent-post.php:19
+msgid "Random order"
+msgstr "סדר אקראי"
+
+#: functions/widgets/premmerce-recent-post.php:20
+msgid "Order by comment count"
+msgstr "סדר לפי כמות התגובות"
+
+#: functions/widgets/premmerce-recent-post.php:21
+msgid "Order by position"
+msgstr "סדר לפי מיקום"
+
+#: functions/widgets/premmerce-recent-post.php:22
+msgid "Order by author"
+msgstr "סדר לפי שם המפרסם"
+
+#: functions/widgets/premmerce-recent-post.php:27
+msgid "Premmerce recent post"
+msgstr "Premmerce פוסט האחרון"
+
+#: functions/widgets/premmerce-recent-post.php:71,
+#: parts/shortcode-templates/premmerce-brands/carousel.php:8,
+#: premmerce-woocommerce-brands/brands-widget.php:16
+msgid "View all"
+msgstr "הצג הכול"
+
+#: functions/widgets/premmerce-recent-post.php:94
+msgid "Recent post"
+msgstr "הפוסט האחרון"
+
+#: functions/widgets/premmerce-recent-post.php:107,
+#: functions/widgets/premmerce-user-menu.php:58
+msgid "Title"
+msgstr "שם"
+
+#: functions/widgets/premmerce-recent-post.php:136
+msgid "Order by"
+msgstr "סדר לפי"
+
+#: functions/widgets/premmerce-recent-post.php:151
+msgid "Number of posts to show"
+msgstr "מספר הפוסטים שיוצגו"
+
+#: functions/widgets/premmerce-recent-post.php:169
+msgid "Consider subcategories"
+msgstr "קח קטגוריות משנה"
+
+#: functions/widgets/premmerce-recent-post.php:181
+msgid "Display post date"
+msgstr "הצג תאריך פירסום"
+
+#: functions/widgets/premmerce-recent-post.php:193
+msgid "Display post image"
+msgstr "הצג את תמונת הפוסט"
+
+#: functions/widgets/premmerce-user-menu.php:12
+msgid "Premmerce woocommerce user menu"
+msgstr "תפריט משתמש woocommerce Premmerce"
+
+#: functions/widgets/premmerce-user-menu.php:52
+msgid "User menu"
+msgstr "תפריט משתמש"
+
+#: parts/comments/comments-form.php:3
+msgid "Write a comment"
+msgstr "כתוב תגובה"
+
+#: parts/header/layouts/header-layout_3.php:78,
+#: parts/header/layouts/header-layout_5.php:88
+msgid "Catalog"
+msgstr "קטלוג"
+
+#: parts/header/layouts/header-layout_3.php:115,
+#: parts/header/layouts/header-layout_5.php:115,
+#: parts/header/parts/header-profile.php:7,
+#: parts/mobile-menu/mobile-frame.php:29
+msgid "Profile"
+msgstr "פרופיל"
+
+#: parts/header/parts/header-phones.php:8
+msgid "Call us:"
+msgstr "התקשר אלינו"
+
+#: parts/header/parts/header-profile-overlay.php:8,
+#: parts/mobile-menu/mobile-profile.php:6, parts/modal/modal-login.php:3,
+#: parts/modal/modal-login.php:55, parts/modal/modal-login.php:57,
+#: parts/widgets/premmerce-user-menu.php:7,
+#: woocommerce/myaccount/form-login-part-login.php:4,
+#: woocommerce/myaccount/form-login-part-login.php:47,
+#: woocommerce/myaccount/form-login-part-login.php:49,
+#: woocommerce/single-product-reviews.php:62
+msgid "Login"
+msgstr "התחברות"
+
+#: parts/header/parts/header-profile-overlay.php:15,
+#: parts/mobile-menu/mobile-profile.php:13, parts/modal/modal-login.php:78,
+#: parts/widgets/premmerce-user-menu.php:14,
+#: woocommerce/myaccount/form-login-part-register.php:4,
+#: woocommerce/myaccount/form-login-part-register.php:62,
+#: woocommerce/myaccount/form-login-part-register.php:64
+msgid "Register"
+msgstr "הירשם"
+
+#: parts/integrations/nsl-socauth/nsl-socauth.php:12
+msgid "Sign in with"
+msgstr "היכנס באמצעות"
+
+#: parts/integrations/nsl-socauth/nsl-socauth.php:20
+msgid "Login with Facebook"
+msgstr "התחבר עם פייסבוק"
+
+#: parts/integrations/nsl-socauth/nsl-socauth.php:29,
+#: parts/integrations/nsl-socauth/nsl-socauth.php:38
+msgid "Login with Google"
+msgstr "כניסה עם גוגל"
+
+#: parts/mobile-menu/mobile-frame.php:17
+msgid "Info"
+msgstr "מידע"
+
+#: parts/mobile-menu/mobile-frame.php:49,
+#: parts/mobile-menu/mobile-premmerce-currency-switcher.php:18,
+#: parts/mobile-menu/mobile-woocommerce-currency-switcher.php:13
+msgid "Currency"
+msgstr "מטבע"
+
+#: parts/mobile-menu/mobile-language-switch-polylang.php:19,
+#: parts/mobile-menu/mobile-language-switch-wpml.php:17
+msgid "Language"
+msgstr "שפה"
+
+#: parts/modal/modal-login.php:25,
+#: woocommerce/myaccount/form-login-part-login.php:23,
+#: woocommerce/myaccount/form-lost-password.php:26
+msgid "Username or email address"
+msgstr "שם משתמש או כתובת אימייל"
+
+#: parts/modal/modal-login.php:34,
+#: woocommerce/myaccount/form-login-part-login.php:36,
+#: woocommerce/myaccount/form-login-part-register.php:51
+msgid "Password"
+msgstr "סיסמה"
+
+#: parts/modal/modal-login.php:43
+msgid "Welcome!"
+msgstr "ברוך הבא!"
+
+#: parts/modal/modal-login.php:45, parts/modal/modal-login.php:91
+msgid "You have successfully logged in as"
+msgstr "נכנסת בהצלחה למערכת כ-"
+
+#: parts/modal/modal-login.php:68,
+#: woocommerce/myaccount/form-login-part-login.php:56
+msgid "Remember me"
+msgstr "זכור אותי"
+
+#: parts/modal/modal-login.php:74
+msgid "Don't Have an Account?"
+msgstr "אין לך חשבון?"
+
+#: parts/modal/modal-login.php:83,
+#: woocommerce/myaccount/form-login-part-login.php:64
+msgid "Lost your password?"
+msgstr "שכחת את הסיסמה שלך?"
+
+#: parts/posts/content-none.php:4
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"מצטערים, אך שום דבר לא התאים למונחי החיפוש שלך. נסה שוב עם מספר מילות מפתח "
+"שונות."
+
+#: parts/posts/content-none.php:11, woocommerce/loop/no-products-found.php:27
+msgid "No products were found matching your selection."
+msgstr "לא נמצאו מוצרים התואמים את בחירתך."
+
+#. translators: %s: search query
+#: parts/posts/layout-right-sidebar.php:12
+msgid "Search Results for: %s"
+msgstr "תוצאות חיפוש עבור: %s"
+
+#: parts/posts/layout-right-sidebar.php:14
+msgid "No results found"
+msgstr "לא נמצאו תוצאות"
+
+#: parts/posts/parts/post-bloginfo.php:8
+msgid "Tags"
+msgstr "תגים"
+
+#: parts/posts/parts/post-bloginfo.php:25
+msgid "Share"
+msgstr "שתף"
+
+#: parts/posts/parts/post-navigation.php:7, woocommerce/myaccount/orders.php:92
+msgid "Previous"
+msgstr "קודם"
+
+#: parts/posts/parts/post-navigation.php:13,
+#: woocommerce/myaccount/orders.php:96
+msgid "Next"
+msgstr "הבא"
+
+#: parts/posts/parts/post-tools.php:27
+msgid "Posted in:"
+msgstr "פורסם ב:"
+
+#: parts/posts/single.php:8
+msgid "Pages:"
+msgstr "עמודים:"
+
+#: parts/review/review-form.php:6
+msgid "Write a review"
+msgstr "כתוב ביקורת"
+
+#: parts/review/review-form.php:15
+msgid "Your rating"
+msgstr "הדירוג שלך"
+
+#: parts/review/review-form.php:19
+msgid "out of 5 stars"
+msgstr "%s מתוך 5 כוכבים"
+
+#: parts/shortcode-templates/premmerce_scheduled_sale_products/premmerce_scheduled_sale_products.php:46,
+#: woocommerce/loop/sales-counter-loop.php:17,
+#: woocommerce/single-product/sales-counter-single.php:19
+msgid "On sale "
+msgstr "במבצע"
+
+#: parts/shortcode-templates/premmerce_scheduled_sale_products/premmerce_scheduled_sale_products.php:59,
+#: woocommerce/single-product/sales-counter-single.php:30
+msgid "day"
+msgid_plural "days"
+msgstr[0] "יום"
+msgstr[1] "יומיים"
+msgstr[2] "ימים"
+msgstr[3] "ימים"
+
+#: parts/shortcode-templates/premmerce_scheduled_sale_products/premmerce_scheduled_sale_products.php:89
+msgid "Price "
+msgstr "מחיר"
+
+#: parts/shortcode-templates/premmerce_scheduled_sale_products/premmerce_scheduled_sale_products.php:102
+msgid "Discount "
+msgstr "הנחה"
+
+#: parts/shortcode-templates/premmerce_scheduled_sale_products/premmerce_scheduled_sale_products.php:110
+msgid "Saving "
+msgstr "שומר "
+
+#: premmerce-product-comparison/comparison-btn.php:21,
+#: premmerce-product-comparison/comparison-btn.php:61
+msgid "Open in list"
+msgstr "פתח ברשימה"
+
+#: premmerce-product-comparison/comparison-btn.php:31,
+#: premmerce-product-comparison/comparison-btn.php:75
+msgid "Add to compare"
+msgstr "הוסף להשוואה"
+
+#. translators: %s: Category name
+#: premmerce-product-comparison/comparison-page-categories.php:32
+msgid "%s List"
+msgstr "רשימה %s"
+
+#: premmerce-product-comparison/comparison-page-categories.php:41
+msgid "No items to compare"
+msgstr "אין פריטים להשוואה"
+
+#: premmerce-product-comparison/comparison-page-products.php:43,
+#: premmerce-woocommerce-wishlist/wishlist-btn-delete.php:2,
+#: premmerce-woocommerce-wishlist/wishlist-page.php:50
+msgid "Delete"
+msgstr "מחק"
+
+#: premmerce-product-comparison/comparison-total.php:22,
+#: premmerce-product-comparison/comparison-total.php:37,
+#: premmerce-product-comparison/comparison-total.php:46
+msgid "Compare"
+msgstr "השווה"
+
+#: premmerce-search/autocomplete-template.php:32
+msgid "All search results"
+msgstr "כל תוצאות החיפוש"
+
+#: premmerce-woocommerce-best-price-guaranteed/found-cheaper-button.php:15,
+#: premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:4
+msgid "Found cheaper?"
+msgstr "מצאת זול יותר?"
+
+#: premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:65
+msgid "URL to product"
+msgstr "כתובת אתר למוצר"
+
+#: premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:68
+msgid "Where you found expensive?"
+msgstr "איפה מצאת יקר יותר?"
+
+#: premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:101
+msgid "Send"
+msgstr "שלח"
+
+#: premmerce-woocommerce-brands/brands-meta.php:2
+msgid "Brand"
+msgstr "מותג"
+
+#: premmerce-woocommerce-buy-now/oneclickorder-btn.php:13,
+#: premmerce-woocommerce-buy-now/oneclickorder-popup.php:11
+msgid "One click order"
+msgstr "קנייה בלחיצה אחת"
+
+#: premmerce-woocommerce-buy-now/oneclickorder-popup.php:40
+msgid ""
+"Thank you for your order! Our manager will contact you as soon as possible."
+msgstr "תודה על הזמנתך! אנו נצור איתך קשר בהקדם האפשרי."
+
+#: premmerce-woocommerce-buy-now/oneclickorder-popup.php:118
+msgid "Place order"
+msgstr "הזמן עכשיו"
+
+#: premmerce-woocommerce-price-tracking/price-spy-form.php:17,
+#: premmerce-woocommerce-price-tracking/price-spy-form.php:24
+msgid "Price is tracked"
+msgstr "מחיר במעקב"
+
+#: premmerce-woocommerce-price-tracking/price-spy-form.php:30,
+#: premmerce-woocommerce-price-tracking/price-spy-form.php:40,
+#: premmerce-woocommerce-price-tracking/price-spy-form.php:84
+msgid "Track price"
+msgstr "עקוב אחר המחיר"
+
+#: premmerce-woocommerce-price-tracking/price-spy-form.php:49
+msgid ""
+"Follow the price and we will send you an email once the product price changes"
+msgstr "עקוב אחרי המחיר ואנו נשלח לך הודעת דוא\"ל פעם את מחיר המוצר משתנה"
+
+#: premmerce-woocommerce-price-tracking/price-spy-table.php:12
+msgid "Price spy"
+msgstr "מרגל מחיר"
+
+#: premmerce-woocommerce-price-tracking/price-spy-table.php:23,
+#: premmerce-woocommerce-price-tracking/price-spy-table.php:53
+msgid "Price"
+msgstr "מחיר"
+
+#: premmerce-woocommerce-price-tracking/price-spy-table.php:26,
+#: premmerce-woocommerce-price-tracking/price-spy-table.php:57
+msgid "New price"
+msgstr "מחיר חדש"
+
+#: premmerce-woocommerce-price-tracking/price-spy-table.php:34,
+#: premmerce-woocommerce-price-tracking/price-spy-table.php:69,
+#: premmerce-woocommerce-waiting-list/user_subscriptions_table.php:23
+msgid "Remove"
+msgstr "הסר"
+
+#: premmerce-woocommerce-price-tracking/price-spy-table.php:82
+msgid "You do not spy any product"
+msgstr "אתה לא מרגל אף מוצר"
+
+#: premmerce-woocommerce-product-bundles/product-bundles-list.php:19
+msgid "Frequently bought together"
+msgstr "בד''כ קונום יחד"
+
+#: premmerce-woocommerce-product-bundles/product-bundles-list.php:137
+msgid "You save"
+msgstr "החסכון שלך"
+
+#: premmerce-woocommerce-product-bundles/product-bundles-list.php:165,
+#: woocommerce/loop/add-to-cart.php:71,
+#: woocommerce/single-product/add-to-cart/variation-add-to-cart-button.php:100
+msgid "View in Cart"
+msgstr "הצג בעגלה"
+
+#: premmerce-woocommerce-waiting-list/product-wait-button.php:14,
+#: premmerce-woocommerce-waiting-list/product-wait-popup.php:12
+msgid "Notify when available"
+msgstr "הודע כאשר זמין"
+
+#: premmerce-woocommerce-waiting-list/product-wait-popup.php:31
+msgid "View the list of subscriptions"
+msgstr "הצג את רשימת המינויים"
+
+#: premmerce-woocommerce-waiting-list/product-wait-popup.php:39
+msgid "Remove subscription"
+msgstr "הסרת מינוי"
+
+#: premmerce-woocommerce-waiting-list/product-wait-popup.php:50,
+#: premmerce-woocommerce-waiting-list/user_subscriptions_table.php:9
+msgid "You'll receive a one email when this product arrives in stock"
+msgstr "תקבל הודעת דוא\"ל אחת כאשר מוצר זה מגיע במלאי"
+
+#: premmerce-woocommerce-waiting-list/product-wait-popup.php:91
+msgid "Notify me"
+msgstr "תודיע לי"
+
+#: premmerce-woocommerce-waiting-list/user_subscriptions_table.php:62
+msgid "You do not wait for any product"
+msgstr "אתה לא מחכה לאף מוצר"
+
+#: premmerce-woocommerce-wishlist/wishlist-btn-move.php:13
+msgid "Move"
+msgstr "העבר"
+
+#: premmerce-woocommerce-wishlist/wishlist-btn.php:20
+msgid "Add to Wishlist"
+msgstr "הוסף לרשימת משאלות"
+
+#: premmerce-woocommerce-wishlist/wishlist-page.php:13
+msgid "Your wishlist is empty"
+msgstr "רשימת המשאלות שלך ריקה"
+
+#: premmerce-woocommerce-wishlist/wishlist-page.php:16,
+#: premmerce-woocommerce-wishlist/wishlist-page.php:87
+msgid ""
+"Once added new items, you'll be able to continue shopping any time and also "
+"share the information about the purchase with your friends."
+msgstr ""
+"לאחר הוספת פריטים חדשים, תוכל להמשיך ולרכוש בכל עת וגם לשתף את המידע על "
+"הרכישה עם חבריך."
+
+#: premmerce-woocommerce-wishlist/wishlist-page.php:42,
+#: woocommerce/myaccount/my-address.php:66
+msgid "Edit"
+msgstr "ערוך"
+
+#: premmerce-woocommerce-wishlist/wishlist-page.php:84
+msgid "This list is empty"
+msgstr "רשימה זו ריקה"
+
+#: premmerce-woocommerce-wishlist/wishlist-popup.php:19
+msgid "Move to another list"
+msgstr "עבור לרשימה אחרת"
+
+#: premmerce-woocommerce-wishlist/wishlist-popup.php:21
+msgid "Add to your list"
+msgstr "הוסף לרשימה שלך"
+
+#: premmerce-woocommerce-wishlist/wishlist-popup.php:34
+msgid "Item successfuly added to your Wishlist!"
+msgstr "הפריט נוסף בהצלחה לרשימת המשאלות שלך!"
+
+#: premmerce-woocommerce-wishlist/wishlist-popup.php:48
+msgid "My Wishlist"
+msgstr "רשימת המשאלות שלי"
+
+#: premmerce-woocommerce-wishlist/wishlist-popup.php:59
+msgid "Select a list"
+msgstr "בחר רשימה"
+
+#: premmerce-woocommerce-wishlist/wishlist-popup.php:90
+msgid "Create a new list"
+msgstr "צור רשימה חדשה"
+
+#: premmerce-woocommerce-wishlist/wishlist-popup.php:125
+msgid "Go to wishlist"
+msgstr "עבור אל רשימת המשאלות"
+
+#: premmerce-woocommerce-wishlist/wishlist-popup.php:132
+msgid "Add to list"
+msgstr "הוסף לרשימה"
+
+#: premmerce-woocommerce-wishlist/wishlist-popup.php:167,
+#: premmerce-woocommerce-wishlist/wishlist-total.php:18,
+#: premmerce-woocommerce-wishlist/wishlist-total.php:33,
+#: premmerce-woocommerce-wishlist/wishlist-total.php:41,
+#: woocommerce/myaccount/dashboard.php:71,
+#: woocommerce/myaccount/navigation.php:32
+msgid "Wishlist"
+msgstr "רשימת המשאלות"
+
+#: premmerce-woocommerce-wishlist/wishlist-rename.php:3
+msgid "Edit your list"
+msgstr "ערוך את הרשימה שלך"
+
+#: premmerce-woocommerce-wishlist/wishlist-rename.php:10
+msgid "List name"
+msgstr "שם הרשימה"
+
+#: premmerce-woocommerce-wishlist/wishlist-rename.php:26
+msgid "Edit list"
+msgstr "ערוך את הרשימה"
+
+#: premmerce-woocommerce-wishlist/wishlist-rename.php:37
+msgid "Rename"
+msgstr "שנה שם"
+
+#: woocommerce/cart/cart-cross-sells.php:6
+msgid "You may be interested in&hellip;"
+msgstr "אתה עשוי להתעניין ב&hellip;"
+
+#: woocommerce/cart/cart-empty.php:36, woocommerce/cart/cart-modal.php:63
+msgid "Continue Shopping"
+msgstr "המשך בקניות"
+
+#. translators: %1$s: cart contents count
+#: woocommerce/cart/cart-frame.php:15
+msgid "Items in your cart (%s)"
+msgstr "פריטים בעגלה שלך (%s)"
+
+#: woocommerce/cart/cart-frame.php:28, woocommerce/cart/cart-modal.php:48
+msgid "Update cart"
+msgstr "עדכן עגלת קניות"
+
+#: woocommerce/cart/cart-header.php:26, woocommerce/cart/cart-header.php:44,
+#: woocommerce/cart/cart-header.php:73, woocommerce/cart/cart-header.php:114,
+#: woocommerce/cart/cart-modal.php:17
+msgid "Cart"
+msgstr "עגלת קניות"
+
+#: woocommerce/cart/cart-header.php:129
+msgid "Empty"
+msgstr "רוקן את העגלה"
+
+#: woocommerce/cart/cart-modal.php:53
+msgid "Your cart is currently empty."
+msgstr "העגלה שלך ריקה כעת."
+
+#: woocommerce/cart/cart-modal.php:73
+msgid "View cart"
+msgstr "הצג עגלה"
+
+#: woocommerce/cart/cart-modal.php:82,
+#: woocommerce/cart/proceed-to-checkout-button.php:19
+msgid "Proceed to checkout"
+msgstr "המשך לתשלום"
+
+#: woocommerce/cart/cart-product.php:38
+msgid "Price: "
+msgstr "מחיר: "
+
+#: woocommerce/cart/cart-product.php:50,
+#: woocommerce/global/quantity-input.php:23
+msgid "Max quantity: "
+msgstr "כמות מקסימלית: "
+
+#. translators: %1$s: stock quantity
+#: woocommerce/cart/cart-product.php:65
+msgid "More than %1$s items available only on backorder"
+msgstr "יותר מ-%1$s פריטים זמינים רק על הזמנה מראש"
+
+#: woocommerce/cart/cart-product.php:67
+msgid "Available on backorder"
+msgstr "זמין רק בהזמנה מראש"
+
+#. translators: $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:62
+msgid "Estimate for %s."
+msgstr "הערכה עבור %s."
+
+#: woocommerce/cart/cart-shipping.php:63
+msgid "Change address"
+msgstr "שינוי כתובת"
+
+#: woocommerce/cart/cart-shipping.php:65
+msgid "This is only an estimate. Prices will be updated during checkout."
+msgstr "זו רק הערכה. המחירים יעודכנו במהלך היציאה."
+
+#: woocommerce/cart/cart-shipping.php:71
+msgid "Enter your address to view shipping options."
+msgstr "הזן את הכתובת שלך כדי להציג אפשרויות משלוח."
+
+#: woocommerce/cart/cart-shipping.php:73
+msgid ""
+"There are no shipping methods available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+"אין שיטות משלוח זמינות. ודא שהכתובת שלך הוזנה נכון, או צור איתנו קשר אם "
+"תזדקק לעזרה."
+
+#. translators: $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:76
+msgid "No shipping options were found for %s."
+msgstr "לא נמצאו אפשרויות משלוח עבור %s."
+
+#: woocommerce/cart/cart-shipping.php:77
+msgid "Enter a different address"
+msgstr "הזן כתובת אחרת"
+
+#: woocommerce/cart/cart-summary.php:25
+msgid "Remove this item"
+msgstr "הסר פריט זה"
+
+#: woocommerce/cart/cart-summary.php:113,
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Coupon code"
+msgstr "קוד קופון"
+
+#: woocommerce/cart/cart-summary.php:117,
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Apply coupon"
+msgstr "החל את הקופון"
+
+#: woocommerce/cart/cart-summary.php:127, woocommerce/cart/cart-totals.php:33,
+#: woocommerce/checkout/review-order.php:45
+msgid "Subtotal"
+msgstr "סיכום ביניים"
+
+#: woocommerce/cart/cart-totals.php:20
+msgid "Order summary"
+msgstr "סיכום הזמנה"
+
+#. translators: %s: estimated for
+#: woocommerce/cart/cart-totals.php:82
+msgid "(estimated for %s)"
+msgstr "הערכה עבור %s"
+
+#: woocommerce/cart/cart-totals.php:105,
+#: woocommerce/checkout/review-order.php:90
+msgid "Total"
+msgstr "סך הכל"
+
+#: woocommerce/cart/shipping-calculator.php:28
+msgid "Calculate shipping"
+msgstr "לחשב את המשלוח"
+
+#: woocommerce/cart/shipping-calculator.php:39,
+#: woocommerce/cart/shipping-calculator.php:42
+msgid "Select a country&hellip;"
+msgstr "בחר ארץ&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:60,
+#: woocommerce/cart/shipping-calculator.php:66,
+#: woocommerce/cart/shipping-calculator.php:69,
+#: woocommerce/cart/shipping-calculator.php:79
+msgid "State / County"
+msgstr "מדינה / מחוז"
+
+#: woocommerce/cart/shipping-calculator.php:70
+msgid "Select a state&hellip;"
+msgstr "בחר מדינה&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:88,
+#: woocommerce/cart/shipping-calculator.php:90,
+#: woocommerce/myaccount/my-address.php:22,
+#: woocommerce/order/order-details-customer.php:20
+msgid "City"
+msgstr "עיר"
+
+#: woocommerce/cart/shipping-calculator.php:98,
+#: woocommerce/cart/shipping-calculator.php:100
+msgid "Postcode / ZIP"
+msgstr "מיקוד"
+
+#: woocommerce/cart/shipping-calculator.php:107,
+#: woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr "עדכון סיכומים"
+
+#: woocommerce/checkout/form-billing.php:22
+msgid "Billing &amp; Shipping"
+msgstr "חיוב &amp; משלוח"
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing details"
+msgstr "פרטי תשלום"
+
+#: woocommerce/checkout/form-billing.php:50
+msgid "Create an account?"
+msgstr "צור חשבון?"
+
+#: woocommerce/checkout/form-checkout.php:21
+msgid "You must be logged in to checkout."
+msgstr "עליך להיות מחובר לחשבון כדי להמשיך לתשלום."
+
+#: woocommerce/checkout/form-checkout.php:71
+msgid "Your order"
+msgstr "ההזמנה שלך"
+
+#: woocommerce/checkout/form-checkout.php:79
+msgid "Edit cart"
+msgstr "ערוך את העגלה"
+
+#: woocommerce/checkout/form-coupon.php:19
+msgid "Have a coupon?"
+msgstr "יש לך קופון?"
+
+#: woocommerce/checkout/form-coupon.php:19
+msgid "Click here to enter your code"
+msgstr "לחץ כאן כדי להזין את הקוד שלך"
+
+#: woocommerce/checkout/form-login.php:19
+msgid "Returning customer?"
+msgstr "לקוח חוזר?"
+
+#: woocommerce/checkout/form-login.php:27
+msgid "Click here to login"
+msgstr "לחץ כאן כדי להתחבר"
+
+#: woocommerce/checkout/form-pay.php:39
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"מצטערים, נראה שאין אמצעי תשלום זמינים עבור המיקום שלך. אנא צור איתנו קשר אם "
+"אתה זקוק לעזרה או רוצה לעשות סידורים חלופיים."
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr "לשלוח לכתובת אחרת?"
+
+#: woocommerce/checkout/form-shipping.php:59
+msgid "Additional information"
+msgstr "מידע נוסף"
+
+#: woocommerce/checkout/payment.php:32
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"מצטערים, נראה שאין אמצעי תשלום זמינים עבור המדינה שלך. אנא צור איתנו קשר אם "
+"אתה זקוק לעזרה או רוצה לעשות סידורים חלופיים."
+
+#: woocommerce/checkout/payment.php:32
+msgid "Please fill in your details above to see available payment methods."
+msgstr "מלא את הפרטים שלך למעלה כדי לראות את אמצעי התשלום הזמינים."
+
+#: woocommerce/checkout/payment.php:42
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+"מכיוון שהדפדפן שלך אינו תומך ב-JavaScript, או שהוא מושבת, הקפד ללחוץ על "
+"הלחצן %1$ ב-JavaScript עדכן %2$ לפני ביצוע ההזמנה. ייתכן שתחויב בסכום הגבוה "
+"מהכמות שצוינה לעיל אם לא תעשה זאת."
+
+#: woocommerce/checkout/shipping.php:6
+msgid "Delivery method"
+msgstr "שיטת משלוח"
+
+#: woocommerce/checkout/thankyou.php:28
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+"לצערנו, לא ניתן לעבד את הזמנתך מכיוון שהבנק / הסוחר המקוריים דחו את העסקה "
+"שלך. נסה שוב את הרכישה."
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "Pay"
+msgstr "שלם"
+
+#: woocommerce/checkout/thankyou.php:32
+msgid "My account"
+msgstr "החשבון שלי"
+
+#: woocommerce/checkout/thankyou.php:44, woocommerce/checkout/thankyou.php:72
+msgid "Thank you. Your order has been received."
+msgstr "תודה. ההזמנה שלך התקבלה."
+
+#: woocommerce/global/quantity-input.php:24
+msgid "Min quantity: "
+msgstr "כמות מינימום: "
+
+#: woocommerce/global/quantity-input.php:25
+msgid "Numbers only"
+msgstr "מספרים בלבד"
+
+#: woocommerce/global/quantity-input.php:33
+msgid "Quantity"
+msgstr "כמות"
+
+#: woocommerce/global/quantity-input.php:43
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "כמות"
+
+#: woocommerce/loop/orderby.php:22
+msgid "Sort by"
+msgstr "מיין לפי"
+
+#: woocommerce/loop/pagination.php:51
+msgid "Load more"
+msgstr "טען עוד"
+
+#: woocommerce/loop/quick-view-button.php:9
+msgid "Quick View"
+msgstr "תצוגה מהירה"
+
+#. translators: 1: first result  2: total results
+#: woocommerce/loop/result-count.php:25
+msgid "Showing %1$d&nbsp; of %2$d results"
+msgstr "מציג %1$d &nbsp; של %2$d תוצאות"
+
+#. translators: %d: total results
+#: woocommerce/loop/result-count.php:35
+msgid "Showing the single result <span class=\"hidden\">%d<span>"
+msgid_plural "Showing all <i class=\"content__hinfo-number\">%d</i> results"
+msgstr[0] "מציג תוצאה אחת <span class=\"hidden\">%d<span>"
+msgstr[1] "מציג את כל ה-<i class=\"content__hinfo-number\">%d</i> התוצאות"
+msgstr[2] "מציג את כל ה-<i class=\"content__hinfo-number\">%d</i> התוצאות"
+msgstr[3] "מציג את כל ה-<i class=\"content__hinfo-number\">%d</i> התוצאות"
+
+#. translators: 1: first result 2: last result 3: total results
+#: woocommerce/loop/result-count.php:48
+msgctxt "with first and last result"
+msgid "Showing the single result <span class=\"hidden\">%1$d %2$d %3$d<span>"
+msgid_plural "Showing %1$d&nbsp;&ndash;&nbsp;%2$d of %3$d results"
+msgstr[0] "מציג תוצאה אחת <span class=\"hidden\">%1$d %2$d %3$d<span>"
+msgstr[1] "מציג %1$d&nbsp;&ndash;&nbsp;%2$d תוצאות מ-%3$d"
+msgstr[2] "מציג %1$d&nbsp;&ndash;&nbsp;%2$d תוצאות מ-%3$d"
+msgstr[3] "מציג %1$d&nbsp;&ndash;&nbsp;%2$d תוצאות מ-%3$d"
+
+#. translators: %s: days count
+#: woocommerce/loop/sales-counter-loop.php:22
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "יום"
+msgstr[1] "יומיים"
+msgstr[2] "ימים"
+msgstr[3] "ימים"
+
+#. translators: %s: hours count
+#: woocommerce/loop/sales-counter-loop.php:28
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] "שעה אחת"
+msgstr[1] "שעתיים"
+msgstr[2] "שעות"
+msgstr[3] "שעות"
+
+#. translators: %s: minutes count
+#: woocommerce/loop/sales-counter-loop.php:34
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "דקה"
+msgstr[1] "דקות"
+msgstr[2] "דקות"
+msgstr[3] "דקות"
+
+#. translators: %1$s: current user name , %2$s : Log out url
+#: woocommerce/myaccount/dashboard.php:24
+msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Log out</a>)"
+msgstr "שלום %1$s (לא %1$s? <a href=\"%2$s\">התנתק</a>)"
+
+#. translators: %1$s: recent orders url, %2$s : shipping and billing addresses url, %3$s edit password url
+#: woocommerce/myaccount/dashboard.php:39
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a> "
+"and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+"ממרכז השליטה בחשבון שלך אתה יכול להציג את <a href=\"%1$s\">הזמנות האחרות</a> "
+"שלך, לנהל משלוחים וחיובים <a href=\"%2$s\">הכתובות שלך</a> ו <a href=\"%3$s"
+"\">ערוך את הסיסמה ואת פרטי החשבון שלך</a>."
+
+#: woocommerce/myaccount/downloads.php:33
+msgid "No downloads available yet."
+msgstr "עדיין אין הורדות זמינות."
+
+#: woocommerce/myaccount/downloads.php:37, woocommerce/myaccount/orders.php:108
+msgid "Go shop"
+msgstr "לך לחנות"
+
+#: woocommerce/myaccount/form-edit-account.php:22
+msgid "Personal information"
+msgstr "מידע אישי"
+
+#: woocommerce/myaccount/form-edit-account.php:39,
+#: woocommerce/myaccount/my-address.php:17,
+#: woocommerce/order/order-details-customer.php:15
+msgid "First name"
+msgstr "שם פרטי"
+
+#: woocommerce/myaccount/form-edit-account.php:50,
+#: woocommerce/myaccount/my-address.php:18,
+#: woocommerce/order/order-details-customer.php:16
+msgid "Last name"
+msgstr "שם משפחה"
+
+#: woocommerce/myaccount/form-edit-account.php:61
+msgid "Display name"
+msgstr "הצג שם"
+
+#: woocommerce/myaccount/form-edit-account.php:72,
+#: woocommerce/myaccount/form-login-part-register.php:37,
+#: woocommerce/myaccount/my-address.php:26
+msgid "Email address"
+msgstr "כתובת דוא\"ל"
+
+#: woocommerce/myaccount/form-edit-account.php:77,
+#: woocommerce/myaccount/form-edit-account.php:128,
+#: woocommerce/myaccount/form-edit-account.php:131
+msgid "Save changes"
+msgstr "שמור שינויים"
+
+#: woocommerce/myaccount/form-edit-account.php:88
+msgid "Password change"
+msgstr "שינוי סיסמה"
+
+#: woocommerce/myaccount/form-edit-account.php:101
+msgid "Current password (leave blank to leave unchanged)"
+msgstr "הסיסמה הנוכחית (יש להשאיר ריק כדי להשאיר ללא שינוי)"
+
+#: woocommerce/myaccount/form-edit-account.php:111
+msgid "New password (leave blank to leave unchanged)"
+msgstr "סיסמה חדשה (השאר ריק כדי להשאיר ללא שינוי)"
+
+#: woocommerce/myaccount/form-edit-account.php:121
+msgid "Confirm new password"
+msgstr "אשר סיסמה חדשה"
+
+#: woocommerce/myaccount/form-edit-address.php:15,
+#: woocommerce/myaccount/my-address.php:34,
+#: woocommerce/myaccount/my-address.php:39,
+#: woocommerce/order/order-details-customer.php:35
+msgid "Billing address"
+msgstr "כתובת לחיוב"
+
+#: woocommerce/myaccount/form-edit-address.php:15,
+#: woocommerce/myaccount/my-address.php:35,
+#: woocommerce/order/order-details-customer.php:60
+msgid "Shipping address"
+msgstr "כתובת למשלוח"
+
+#: woocommerce/myaccount/form-edit-address.php:45,
+#: woocommerce/myaccount/form-edit-address.php:47
+msgid "Save address"
+msgstr "שמור כתובת"
+
+#: woocommerce/myaccount/form-login-part-register.php:23
+msgid "Username"
+msgstr "שם משתמש"
+
+#: woocommerce/myaccount/form-lost-password.php:21
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+"שכחת את הסיסמה שלך? הזן את שם המשתמש או את כתובת הדוא\"ל שלך. תקבל קישור "
+"ליצירת סיסמה חדשה בדוא\"ל."
+
+#: woocommerce/myaccount/form-lost-password.php:35,
+#: woocommerce/myaccount/form-lost-password.php:37
+msgid "Reset password"
+msgstr "לאפס את הסיסמה"
+
+#: woocommerce/myaccount/form-reset-password.php:28
+msgid "Enter a new password below."
+msgstr "הזן סיסמה חדשה מטה."
+
+#: woocommerce/myaccount/form-reset-password.php:40
+msgid "New password"
+msgstr "סיסמה חדשה"
+
+#: woocommerce/myaccount/form-reset-password.php:54
+msgid "Re-enter new password"
+msgstr "הזן סיסמה חדשה שוב"
+
+#: woocommerce/myaccount/form-reset-password.php:68,
+#: woocommerce/myaccount/form-reset-password.php:69
+msgid "Save"
+msgstr "שמור"
+
+#: woocommerce/myaccount/lost-password-confirmation.php:13
+msgid "Password reset email has been sent."
+msgstr "האימייל לאיפוס הסיסמה נשלח."
+
+#: woocommerce/myaccount/lost-password-confirmation.php:16
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+"הודעת איפוס סיסמה נשלחה לכתובת הדוא\"ל שמופיעה עבור החשבון שלך, אך ייתכן "
+"שיחלפו מספר דקות עד שתיכנס לתיבת הדואר הנכנס שלך. המתן 10 דקות לפחות לפני "
+"שתנסה לבצע איפוס נוסף."
+
+#: woocommerce/myaccount/my-address.php:19,
+#: woocommerce/order/order-details-customer.php:17
+msgid "Company"
+msgstr "חברה"
+
+#: woocommerce/myaccount/my-address.php:20,
+#: woocommerce/order/order-details-customer.php:18
+msgid "Address"
+msgstr "כתובת"
+
+#: woocommerce/myaccount/my-address.php:21,
+#: woocommerce/order/order-details-customer.php:19
+msgid "Additional address"
+msgstr "כתובת נוספת"
+
+#: woocommerce/myaccount/my-address.php:23,
+#: woocommerce/order/order-details-customer.php:21
+msgid "State"
+msgstr "מדינה"
+
+#: woocommerce/myaccount/my-address.php:24,
+#: woocommerce/order/order-details-customer.php:22
+msgid "Postcode"
+msgstr "מיקוד"
+
+#: woocommerce/myaccount/my-address.php:25,
+#: woocommerce/order/order-details-customer.php:23
+msgid "Country"
+msgstr "מדינה"
+
+#: woocommerce/myaccount/my-address.php:47
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "כברירת מחדל, יש להשתמש בכתובת הבאה."
+
+#: woocommerce/myaccount/orders.php:21
+msgid "Order history"
+msgstr "היסטוריית הזמנות"
+
+#: woocommerce/myaccount/orders.php:52
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#. translators: 1: formatted order total 2: total order items
+#: woocommerce/myaccount/orders.php:64
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] "%1$s לפריט %2$s"
+msgstr[1] "%1$s לפריטים %2$s"
+msgstr[2] "%1$s לפריטים %2$s"
+msgstr[3] "%1$s לפריטים %2$s"
+
+#: woocommerce/myaccount/orders.php:104
+msgid "No order has been made yet."
+msgstr "עדיין לא בוצע אף הצמנה."
+
+#. translators: %1$s: order number %2$s: order date %3$s: order status
+#: woocommerce/myaccount/view-order.php:36
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr "ההזמנה מס' %1$s בוצעה ב-%2$s והיא כרגע %3$s."
+
+#: woocommerce/myaccount/view-order.php:48
+msgid "Order updates"
+msgstr "עדכוני הזמנה"
+
+#: woocommerce/myaccount/view-order.php:55
+msgid "l jS \\o\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:21
+msgid "Region"
+msgstr "אזור"
+
+#: woocommerce/order/order-details.php:34
+msgid "Order details"
+msgstr "פרטי הזמנה"
+
+#: woocommerce/order/order-downloads.php:19
+msgid "List of files to download"
+msgstr "רשימת הקבצים להורדה"
+
+#: woocommerce/order/order-downloads.php:51
+msgid "Download"
+msgstr "הורדה"
+
+#: woocommerce/order/order-downloads.php:65
+msgid "Never"
+msgstr "לעולם לא"
+
+#: woocommerce/order/order-overview.php:6
+msgid "Order number:"
+msgstr "מספר הזמנה:"
+
+#: woocommerce/order/order-overview.php:16
+msgid "Date:"
+msgstr "תאריך:"
+
+#: woocommerce/order/order-overview.php:27
+msgid "Email:"
+msgstr "דוא\"ל:"
+
+#: woocommerce/order/order-overview.php:38
+msgid "Total:"
+msgstr "סך הכל:"
+
+#: woocommerce/order/order-overview.php:49
+msgid "Payment method:"
+msgstr "שיטת משלוח:"
+
+#: woocommerce/order/order-overview.php:61
+msgid "Note:"
+msgstr "הערה:"
+
+#: woocommerce/single-product-reviews.php:47
+msgid ""
+"Be the first to review this item. Share your rating and review so that other "
+"customers can decide if this is the right item for them."
+msgstr ""
+"היה הראשון לסקור את הפריט. שתף את הדירוג שלך וסקירה כדי שלקוחות אחרים יוכלו "
+"להחליט אם זהו הפריט המתאים עבורם."
+
+#: woocommerce/single-product-reviews.php:58
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "רק לקוחות שרכשו מוצר זה יכולים להשאיר ביקורת."
+
+#: woocommerce/single-product/add-to-cart/variation.php:19
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr "מצטערים, מוצר זה אינו זמין. בחר שילוב שונה."
+
+#: woocommerce/single-product/attributes-list.php:11,
+#: woocommerce/single-product/product-attributes.php:26
+msgid "Weight"
+msgstr "משקל"
+
+#: woocommerce/single-product/attributes-list.php:19,
+#: woocommerce/single-product/product-attributes.php:41
+msgid "Dimensions"
+msgstr "מידות"
+
+#: woocommerce/single-product/labels.php:7
+msgid "Hit"
+msgstr "להיט"
+
+#: woocommerce/single-product/meta.php:30
+msgid "SKU:"
+msgstr "מק\"ט:"
+
+#: woocommerce/single-product/meta.php:32
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:38
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "קטגוריה:"
+msgstr[1] "קטגוריות:"
+msgstr[2] "קטגוריות:"
+msgstr[3] "קטגוריות:"
+
+#: woocommerce/single-product/meta.php:40
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "תגית:"
+msgstr[1] "תגיות:"
+msgstr[2] "תגיות:"
+msgstr[3] "תגיות:"
+
+#: woocommerce/single-product/rating.php:32
+msgid "Reviews"
+msgstr "ביקורות"
+
+#: woocommerce/single-product/related.php:22
+msgid "Related products"
+msgstr "מוצרים נלווים"
+
+#. translators: %s: start count
+#: woocommerce/single-product/review.php:39
+msgid "%s out of 5 stars"
+msgstr "%s מתוך 5 כוכבים"
+
+#: woocommerce/single-product/review.php:53
+msgid "Your review is awaiting approval"
+msgstr "הביקורת שלך ממתינה לאישור"
+
+#: woocommerce/single-product/review.php:67
+msgid "Reply to this post"
+msgstr "הגב לפוסט זה"
