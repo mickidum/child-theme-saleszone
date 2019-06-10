@@ -25,10 +25,10 @@ function saleszone_parent_theme_enqueue_styles() {
 		get_stylesheet_directory_uri() . '/css/all-rtl.css',
 		array( 'child-theme-saleszone-bootstrap' )
 	);
-	wp_enqueue_style( 'child-theme-saleszone-style-addcss',
-		get_stylesheet_directory_uri() . '/css/addcss.css',
-		array( 'child-theme-saleszone-style-all-rtl' )
-	);
+	// wp_enqueue_style( 'child-theme-saleszone-style-addcss',
+	// 	get_stylesheet_directory_uri() . '/css/addcss.css',
+	// 	array( 'child-theme-saleszone-style-all-rtl' )
+	// );
 	// wp_enqueue_style( 'child-theme-saleszone-style-rtl1',
 	// 	get_stylesheet_directory_uri() . '/css/rtl-last.css',
 	// 	array( 'child-theme-saleszone-bootstrap' )
