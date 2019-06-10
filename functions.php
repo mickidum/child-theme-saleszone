@@ -13,46 +13,30 @@ function my_child_theme_setup(){
 }
 
 
-add_action( 'wp_enqueue_scripts', 'saleszone_parent_theme_enqueue_styles' );
+// add_action( 'wp_enqueue_scripts', 'saleszone_parent_theme_enqueue_styles' );
 
 
-function saleszone_parent_theme_enqueue_styles() {
-	wp_enqueue_style( 'child-theme-saleszone-bootstrap',
-		get_stylesheet_directory_uri() . '/css/btstr.css',
-		array( 'saleszone-styles' )
-	);
-	wp_enqueue_style( 'child-theme-saleszone-style-all-rtl',
-		get_stylesheet_directory_uri() . '/css/all-rtl.css',
-		array( 'child-theme-saleszone-bootstrap' )
-	);
-	// wp_enqueue_style( 'child-theme-saleszone-style-addcss',
-	// 	get_stylesheet_directory_uri() . '/css/addcss.css',
-	// 	array( 'child-theme-saleszone-style-all-rtl' )
-	// );
-	// wp_enqueue_style( 'child-theme-saleszone-style-rtl1',
-	// 	get_stylesheet_directory_uri() . '/css/rtl-last.css',
-	// 	array( 'child-theme-saleszone-bootstrap' )
-	// );
-	// wp_enqueue_style( 'child-theme-saleszone-style-rtl2',
-	// 	get_stylesheet_directory_uri() . '/css/right.css',
-	// 	array( 'child-theme-saleszone-bootstrap' )
-	// );
-	// wp_enqueue_style( 'child-theme-saleszone-style-variations',
-	// 	get_stylesheet_directory_uri() . '/css/variations.css',
-	// 	array( 'child-theme-saleszone-bootstrap' )
-	// );
-}
+// function saleszone_parent_theme_enqueue_styles() {
+// 	wp_enqueue_style( 'child-theme-saleszone-bootstrap',
+// 		get_stylesheet_directory_uri() . '/css/bootstrap-rtl.css',
+// 		array( 'saleszone-styles' )
+// 	);
+// 	wp_enqueue_style( 'child-theme-saleszone-style-all-rtl',
+// 		get_stylesheet_directory_uri() . '/css/all-rtl.css',
+// 		array( 'child-theme-saleszone-bootstrap' )
+// 	);
+// }
+
 if (is_rtl()) {
 
-// define the woocommerce_pagination_args callback 
 function filter_woocommerce_pagination_args( $arr ) { 
+
     $arr['prev_text'] = '&rarr;';
     $arr['next_text'] = '&larr;';
 
     return $arr; 
 }; 
          
-// add the filter 
 add_filter( 'woocommerce_pagination_args', 'filter_woocommerce_pagination_args', 10, 1 ); 
 
 if ( !function_exists( 'saleszone_get_comments_pagination_args' ) ) {
