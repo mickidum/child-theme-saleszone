@@ -1,12 +1,9 @@
-
- .mobile-nav__list--is-moving {
-     -webkit-transform: translateX(-100%);
-     -moz-transform: translateX(-100%);
-     -ms-transform: translateX(-100%);
-     -o-transform: translateX(-100%);
-     transform: translateX(-100%);
+.col-lg-1, .col-lg-2, .pc-category-products-layout__sidebar, .wishlist__column, .pc-frame-profile__sidebar, .col-lg-3, .pc-section-secondary .brands-widget .brands-widget__list-item, .pc-product-single__sidebar, .pc-product-loop--grid .pc-product-loop__col, .up-sells__columns, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .pc-product-single__main, .col-lg-10, .pc-category-products-layout__body, .pc-frame-profile__body, .col-lg-11, .col-lg-12, .pc-product-single--no-sidebar .pc-product-single__main {
+	float: right;
 }
- .quantity__tooltip {
+
+
+.quantity__tooltip {
      left: 50%;
      transform: translateX(-50%);
 }
@@ -19,104 +16,95 @@
      transform: translateX(-50%);
 }
  .typo ul ul, .wp-editor ul ul {
-     margin: 0 0 0 2em;
+     margin: 0 2em 0 0;
 }
  .typo ol ol, .wp-editor ol ol {
-     margin: 0 0 0 2em;
+     margin: 0 2em 0 0;
 }
  .likes {
-     margin: -10px 0 0 -15px;
+     margin: -10px -15px 0 0;
 }
  .likes__item {
-     margin: 10px 0 0 15px;
+     margin: 10px 15px 0 0;
 }
  .spinner-circle, .blockUI:not(.blockOverlay):not(.blockElement):not(.blockMsg) {
-     margin: -20px 0 0 -20px;
+     margin: -20px -20px 0 0;
 }
- .widget_layered_nav_filters ul {
-     margin: -10px 0 0 -10px;
-}
- .widget_layered_nav_filters ul li {
-     display: inline-block;
-     margin: 10px 10px 0 0;
-}
- .widget_layered_nav_filters ul li a {
-     padding: 3px 10px 4px 35px;
-}
- .tagcloud {
-     margin: -5px 0 0 -5px;
-}
- .tagcloud a {
-     float: left;
-     margin: 5px 0 0 5px;
-}
+
+
+
  @media (min-width: 768px) {
      .product-kit__product:not(:first-child):before {
-         margin: 0 0 0 -11px;
+         margin: 0 -11px 0 0;
     }
 }
- .cart-header__badge {
-     margin: -10px 0 0 -10px;
-}
- .gallery .gallery-item .gallery-icon a::after {
-     margin: -14px 0 0 -9px;
-}
- .gallery-menu__item {
+
+
+ /*.gallery-menu__item {
      margin: 0 0 5px 10px;
-}
+}*/
  .alignnone {
-     margin: 5px 20px 20px 0;
+     /*margin: 5px 20px 20px 0;*/
+     margin: 5px 0 20px 20px;
 }
  a img.alignright {
-     float: right;
-     margin: 5px 0 20px 20px;
+     float: left;
+     /*margin: 5px 0 20px 20px;*/
+     margin: 5px 20px 20px 0;
 }
  a img.alignnone {
-     margin: 5px 20px 20px 0;
-}
- a img.alignleft {
-     float: left;
-     margin: 5px 20px 20px 0;
-}
- .wp-caption.alignnone {
-     margin: 5px 20px 20px 0;
-}
- .wp-caption.alignleft {
-     margin: 5px 20px 20px 0;
-}
- .wp-caption.alignright {
+     /*margin: 5px 20px 20px 0;*/
      margin: 5px 0 20px 20px;
 }
- .mfp-close {
-     padding: 0 0 18px 10px;
+ a img.alignleft {
+     float: right;
+     /*margin: 5px 20px 20px 0;*/
+     margin: 5px 0 20px 20px;
 }
+ .wp-caption.alignnone {
+     /*margin: 5px 20px 20px 0;*/
+     margin: 5px 0 20px 20px;
+}
+ .wp-caption.alignleft {
+     /*margin: 5px 20px 20px 0;*/
+     margin: 5px 0 20px 20px;
+}
+ .wp-caption.alignright {
+     /*margin: 5px 0 20px 20px;*/
+     margin: 5px 20px 20px 0;
+}
+ /*.mfp-close {
+     padding: 0 0 18px 10px;
+}*/
  .pc-header-layout-3__navbar-link {
-     padding: 0 35px 0 20px;
+     /*padding: 0 35px 0 20px;*/
+     padding: 0 20px 0 35px;
 }
  .typo blockquote, .wp-editor blockquote {
-     padding: 0 0 0.8em 3.7em;
+     /*padding: 0 0 0.8em 3.7em;*/
+     padding: 0 3.7em 0.8em 0;
 }
  .tree-nav__link {
-     padding: 5px 30px 5px 10px;
+     /*padding: 5px 30px 5px 10px;*/
+     padding: 5px 10px 5px 30px;
 }
  .sidebar-nav__link {
-     padding: 10px 50px 10px 10px;
+     /*padding: 10px 50px 10px 10px;*/
+     padding: 10px 10px 10px 50px;
 }
  .overlay__link {
-     padding: 5px 30px 5px 10px;
+     /*padding: 5px 30px 5px 10px;*/
+     padding: 5px 10px 5px 30px;
 }
- .pc-section-primary__inner {
-     padding: 30px 50px 35px 50px;
-}
+
  /*.widget_layered_nav_filters ul li a {
      padding: 3px 35px 4px 10px;
 }*/
  .jq-selectbox__select {
-     padding: 0 45px 0 10px;
+     /*padding: 0 45px 0 10px;*/
+     padding: 0 10px 0 45px;
 }
  .jq-selectbox__search input {
-     padding: 5px 27px 6px 8px;
-}
- .quantity__btn {
-     min-width: 33px;
+     /*padding: 5px 27px 6px 8px;*/
+     padding: 5px 8px 6px 27px;
 }
