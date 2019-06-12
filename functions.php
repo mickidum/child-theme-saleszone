@@ -10,6 +10,7 @@
 add_action( 'after_setup_theme', 'my_child_theme_setup' );
 function my_child_theme_setup(){
 	load_child_theme_textdomain( 'saleszone', get_stylesheet_directory() . '/languages' );
+	load_child_theme_textdomain( 'premmerce-filter', get_stylesheet_directory() . '/languages/plugins/filter' );
 }
 
 
@@ -92,21 +93,19 @@ if ( !function_exists( 'saleszone_post_pagination' ) ) {
 	}
 }
 
-/**
- * Hide shipping rates when free shipping is available.
- * Updated to support WooCommerce 2.6 Shipping Zones.
- *
- * @param array $rates Array of rates found for the package.
- * @return array
- */
 function my_hide_shipping_when_free_is_available( $rates ) {
 	$free = array();
+	$fr = false;
 	foreach ( $rates as $rate_id => $rate ) {
 		if ( 'free_shipping' === $rate->method_id ) {
 			$free[ $rate_id ] = $rate;
-			break;
+			$fr = true;
+		}
+		if ( 'local_pickup' === $rate->method_id ) {
+			$free[ $rate_id ] = $rate;
 		}
 	}
-	return ! empty( $free ) ? $free : $rates;
+	
+	return $fr ? $free : $rates;
 }
 add_filter( 'woocommerce_package_rates', 'my_hide_shipping_when_free_is_available', 100 );
