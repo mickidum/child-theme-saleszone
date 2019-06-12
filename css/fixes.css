@@ -1,0 +1,40 @@
+html {
+	font-size: 105%;
+}
+.product-kit {
+	direction: rtl;
+}
+.frame__arrows {
+	direction: ltr;
+}
+ 
+
+@media (min-width: 768px) {
+.pc-section-primary__title {
+    line-height: 0.9;
+}
+	}
+
+.filter__price-control, .filter__slider-control, .form-control, .form__select, .product-search__form-control, .quantity__input, .variants-select select, .widget_archive select, .widget_categories select, .widget_meta select, .widget_pages select, .widget_premmerce_user_menu select, .widget_price_filter input, .widget_product_categories select, .widget_recent_comments select, .widget_recent_entries select, .woocommerce-address-fields .form-row .input-text, .woocommerce-address-fields .form-row select, .wpcf7 .wpcf7-form-control-wrap textarea, .wpcf7 .wpcf7-form-control:not([type=submit]):not(textarea), input[name=billing_state] {
+	height: auto;
+	min-height: 37px;
+}
+
+.user-panel__ico {
+    float: right;
+    margin-right: 0;
+    margin-left: 5px;
+    height: 21px;
+}
+
+input[type=checkbox], input[type=radio] {
+	margin-top: 7px;
+}
+.breadcrumbs {
+	font-size: 14px;
+}
+@media (min-width: 992px) {
+.breadcrumbs {
+    font-size: .9rem;
+}
+}

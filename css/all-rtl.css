@@ -709,10 +709,10 @@
     left: auto;
      right: 0;
 }
- .product-kit__discount-label::before {
+/* .product-kit__discount-label::before {
     left: auto;
      right: 50%;
-}
+}*/
  .pc-product-shipping__tooltip {
      padding-left: 0;
      padding-right: 5px;
@@ -974,12 +974,12 @@
  .mfp-content {
      text-align: right;
 }
- .mfp-arrow:after {
+/* .mfp-arrow:after {
     left: auto;
      right: 0;
      margin-left: 0;
      margin-right: 35px;
-}
+}*/
  .mfp-title {
      text-align: right;
      padding-left: 36px;

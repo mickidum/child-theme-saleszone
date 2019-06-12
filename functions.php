@@ -14,19 +14,23 @@ function my_child_theme_setup(){
 }
 
 
-// add_action( 'wp_enqueue_scripts', 'saleszone_parent_theme_enqueue_styles' );
+add_action( 'wp_enqueue_scripts', 'saleszone_parent_theme_enqueue_styles' );
 
 
-// function saleszone_parent_theme_enqueue_styles() {
-// 	wp_enqueue_style( 'child-theme-saleszone-bootstrap',
-// 		get_stylesheet_directory_uri() . '/css/bootstrap-rtl.css',
-// 		array( 'saleszone-styles' )
-// 	);
-// 	wp_enqueue_style( 'child-theme-saleszone-style-all-rtl',
-// 		get_stylesheet_directory_uri() . '/css/all-rtl.css',
-// 		array( 'child-theme-saleszone-bootstrap' )
-// 	);
-// }
+function saleszone_parent_theme_enqueue_styles() {
+	wp_enqueue_style( 'child-theme-saleszone-bootstrap',
+		get_stylesheet_directory_uri() . '/css/bootstrap-rtl.css',
+		array( 'saleszone-styles' )
+	);
+	wp_enqueue_style( 'child-theme-saleszone-style-all-rtl',
+		get_stylesheet_directory_uri() . '/css/all-rtl.css',
+		array( 'child-theme-saleszone-bootstrap' )
+	);
+	wp_enqueue_style( 'child-theme-saleszone-style-fixes',
+		get_stylesheet_directory_uri() . '/css/fixes.css',
+		array( 'child-theme-saleszone-style-all-rtl' )
+	);
+}
 
 if (is_rtl()) {
 
