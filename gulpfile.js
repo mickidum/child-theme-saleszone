@@ -12,7 +12,7 @@ var gulp           = require('gulp'),
 
 
 function sass(cb) {
-	gulp.src('scss/**/*.scss')
+	gulp.src('scss/*.scss')
 	.pipe(gulpSass({
 		outputStyle: 'expand'}).on("error", notify.onError()))
 	.pipe(rename('rtl.css'))
@@ -22,15 +22,28 @@ function sass(cb) {
 	cb();
 }
 
-function watch(cb) {
-	gulp.watch('scss/**/*.scss', gulp.parallel(sass));
+function js(cb) {
+	gulp.src('js/scripts.js')
+	// .pipe(concat('scripts.min.js'))
+	.pipe(rename('scripts.min.js'))
+	.pipe(uglify())
+	.pipe(gulp.dest('js'))
 	cb();
 }
 
-function clearCache (cb) { 
-	cache.clearAll();
-	cb(); 
-}
+// function watch(cb) {
+// 	gulp.watch('scss/**/*.scss', gulp.parallel(sass));
+// 	gulp.watch('js/**/*.js', gulp.parallel(js));
+// 	cb();
+// }
 
-exports.clearcache = gulp.parallel(clearCache);
-exports.default = gulp.parallel(watch);
+// function clearCache (cb) { 
+// 	cache.clearAll();
+// 	cb(); 
+// }
+
+// exports.clearcache = gulp.parallel(clearCache);
+exports.default = function() {
+  gulp.watch('scss/*.scss', sass);
+  gulp.watch('js/scripts.js', js);
+};

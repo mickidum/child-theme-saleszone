@@ -41,7 +41,7 @@ if (is_rtl()) {
 
 function add_rtl_scripts() {
     wp_dequeue_script('saleszone-scripts');
-    wp_enqueue_script("saleszone-child-scripts", get_stylesheet_directory_uri() . '/js/scripts.js',  array('jquery','jquery-ui-core','jquery-ui-slider','doubletaptogo','lazyload','magnific-popup','jquery-zoom','slick','svg4everybody'), false, true);
+    wp_enqueue_script("saleszone-child-scripts", get_stylesheet_directory_uri() . '/js/scripts.min.js',  array('jquery','jquery-ui-core','jquery-ui-slider','doubletaptogo','lazyload','magnific-popup','jquery-zoom','slick','svg4everybody'), false, true);
 }
 add_action('wp_enqueue_scripts','add_rtl_scripts', 20);
 
