@@ -23,6 +23,30 @@ html {
     left: auto;
     transform: rotate(180deg);
 }
+
+.cart-totals__value {
+    width: 70%;
+    font-size: 14px;
+}
+.shipping-methods__item {
+    background-color: #f0f8ff;
+    padding: 10px;
+    // label {
+    //     font-weight: bold;
+    // }
+    input[type=checkbox], input[type=radio] {
+        margin-top: 5px;
+        margin-left: 3px;
+    }
+    
+}
+
+.woocommerce-shipping-destination {
+    background-color: #e4f9cd;
+    margin: .8em 0 0 !important;
+    padding: 15px 5px;
+    line-height: 1;
+}
  
 
 @media (min-width: 768px) {
