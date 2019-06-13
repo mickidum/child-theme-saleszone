@@ -11,6 +11,18 @@ html {
 .frame__arrows {
 	direction: ltr;
 }
+
+.pc-section-primary__arrow--right {
+    left: -10px;
+    right: auto;
+    transform: rotate(180deg);
+}
+
+.pc-section-primary__arrow--left {
+    right: -10px;
+    left: auto;
+    transform: rotate(180deg);
+}
  
 
 @media (min-width: 768px) {
