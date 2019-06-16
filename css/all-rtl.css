@@ -764,7 +764,7 @@
 }
  .shipping-methods--checkout .shipping-methods__title {
      margin-left: 0;
-     margin-right: 0;
+     margin-right: 10px;
 }
  .shipping-methods__title {
      margin-left: 0;

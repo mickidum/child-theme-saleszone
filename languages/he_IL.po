@@ -2594,7 +2594,7 @@ msgstr "(הערכה עבור %s)"
 #: woocommerce/cart/cart-totals.php:105,
 #: woocommerce/checkout/review-order.php:90
 msgid "Total"
-msgstr "סך הכל"
+msgstr "סה\"כ לתשלום"
 
 #: woocommerce/cart/shipping-calculator.php:28
 msgid "Calculate shipping"
@@ -3058,7 +3058,7 @@ msgstr "דוא\"ל:"
 
 #: woocommerce/order/order-overview.php:38
 msgid "Total:"
-msgstr "סך הכל:"
+msgstr "סה\"כ לתשלום:"
 
 #: woocommerce/order/order-overview.php:49
 msgid "Payment method:"
